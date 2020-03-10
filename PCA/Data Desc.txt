@@ -1,0 +1,97 @@
+
+Data Description 
+The dataset describes diagnosing of cardiac Single Proton Emission Computed Tomography (SPECT) images. Each of the patients is classified into two categories: normal and abnormal. The database of 267 SPECT image sets (patients) was processed to extract features that summarize the original SPECT images. As a result, 44 continuous feature pattern was created for each patient.
+
+OVERALL_DIAGNOSIS: 0,1 (class attribute, binary)
+
+F1R: continuous (count in ROI (region of interest) 1 in rest)
+
+F1S: continuous (count in ROI 1 in stress)
+
+F2R: continuous (count in ROI 2 in rest)
+
+F2S: continuous (count in ROI 2 in stress)
+
+F3R: continuous (count in ROI 3 in rest)
+
+F3S: continuous (count in ROI 3 in stress)
+
+F4R: continuous (count in ROI 4 in rest)
+
+F4S: continuous (count in ROI 4 in stress)
+
+F5R: continuous (count in ROI 5 in rest)
+
+F5S: continuous (count in ROI 5 in stress)
+
+F6R: continuous (count in ROI 6 in rest)
+
+F6S: continuous (count in ROI 6 in stress)
+
+F7R: continuous (count in ROI 7 in rest)
+
+F7S: continuous (count in ROI 7 in stress)
+
+F8R: continuous (count in ROI 8 in rest)
+
+F8S: continuous (count in ROI 8 in stress)
+
+F9R: continuous (count in ROI 9 in rest)
+
+F9S: continuous (count in ROI 9 in stress)
+
+F10R: continuous (count in ROI 10 in rest)
+
+F10S: continuous (count in ROI 10 in stress)
+
+F11R: continuous (count in ROI 11 in rest)
+
+F11S: continuous (count in ROI 11 in stress)
+
+F12R: continuous (count in ROI 12 in rest)
+
+F12S: continuous (count in ROI 12 in stress)
+
+F13R: continuous (count in ROI 13 in rest)
+
+F13S: continuous (count in ROI 13 in stress)
+
+F14R: continuous (count in ROI 14 in rest)
+
+F14S: continuous (count in ROI 14 in stress)
+
+F15R: continuous (count in ROI 15 in rest)
+
+F15S: continuous (count in ROI 15 in stress)
+
+F16R: continuous (count in ROI 16 in rest)
+
+F16S: continuous (count in ROI 16 in stress)
+
+F17R: continuous (count in ROI 17 in rest)
+
+F17S: continuous (count in ROI 17 in stress)
+
+F18R: continuous (count in ROI 18 in rest)
+
+F18S: continuous (count in ROI 18 in stress)
+
+F19R: continuous (count in ROI 19 in rest)
+
+F19S: continuous (count in ROI 19 in stress)
+
+F20R: continuous (count in ROI 20 in rest)
+
+F20S: continuous (count in ROI 20 in stress)
+
+F21R: continuous (count in ROI 21 in rest)
+
+F21S: continuous (count in ROI 21 in stress)
+
+F22R: continuous (count in ROI 22 in rest)
+
+F22S: continuous (count in ROI 22 in stress)
+
+** Objective **
+
+Our goal is to predict whether the SPECT images are normal or not.

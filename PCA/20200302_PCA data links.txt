@@ -1,0 +1,3 @@
+train = 'https://query.data.world/s/ksxft7lhmbxpihskwsngwhpuul6lye'
+
+test = 'https://query.data.world/s/cuqtpuoewpxysusrt5z4igihjah4xo'
