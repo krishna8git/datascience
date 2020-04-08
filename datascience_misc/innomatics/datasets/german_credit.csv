@@ -1,0 +1,1001 @@
+checking_acc,duration,credit_hist,purpose,credit_amount,savings_acc,employment_since,installment_rate,status_sex,guarantor,residence_since,property,age,other_installments,housing,existing_credits,job,no_people_liable,Telephone,foreign_worker,cost_matrix
+low,6,critical,television,1169,no_acc,seven+,4,male_single,none,4,real_estate,67,none,own,2,skilled,1,yes,yes,1
+medium,48,existing_paid,television,5951,low,four,2,female_divorced_married,none,2,real_estate,22,none,own,1,skilled,1,no,yes,2
+no_acc,12,critical,education,2096,low,seven,2,male_single,none,3,real_estate,49,none,own,1,unskilled,2,no,yes,1
+low,42,existing_paid,furniture,7882,low,seven,2,male_single,guarantor,4,agreement,45,none,for free,1,skilled,2,no,yes,1
+low,24,delay,new_car,4870,low,four,3,male_single,none,4,no_property,53,none,for free,2,skilled,2,no,yes,2
+no_acc,36,existing_paid,education,9055,no_acc,four,2,male_single,none,4,no_property,35,none,for free,1,unskilled,2,yes,yes,1
+no_acc,24,existing_paid,furniture,2835,silver,seven+,3,male_single,none,4,agreement,53,none,own,1,skilled,1,no,yes,1
+medium,36,existing_paid,old_car,6948,low,four,2,male_single,none,2,other,35,none,rent,1,management,1,yes,yes,1
+no_acc,12,existing_paid,television,3059,gold,seven,2,male_divorced,none,4,real_estate,61,none,own,1,unskilled,1,no,yes,1
+medium,30,critical,new_car,5234,low,unemployed,4,male_married,none,2,other,28,none,own,2,management,1,no,yes,2
+medium,12,existing_paid,new_car,1295,low,one,3,female_divorced_married,none,1,other,25,none,rent,1,skilled,1,no,yes,2
+low,48,existing_paid,business,4308,low,one,3,female_divorced_married,none,4,agreement,24,none,rent,1,skilled,1,no,yes,2
+medium,12,existing_paid,television,1567,low,four,1,female_divorced_married,none,1,other,22,none,own,1,skilled,1,yes,yes,1
+low,24,critical,new_car,1199,low,seven+,4,male_single,none,4,other,60,none,own,2,unskilled,1,no,yes,2
+low,15,existing_paid,new_car,1403,low,four,2,female_divorced_married,none,4,other,28,none,rent,1,skilled,1,no,yes,1
+low,24,existing_paid,television,1282,medium,four,4,female_divorced_married,none,2,other,32,none,own,1,unskilled,1,no,yes,2
+no_acc,24,critical,television,2424,no_acc,seven+,4,male_single,none,4,agreement,53,none,own,2,skilled,1,no,yes,1
+low,30,no_credit,business,8072,no_acc,one,2,male_single,none,3,other,25,bank,own,3,skilled,1,no,yes,1
+medium,24,existing_paid,old_car,12579,low,seven+,4,female_divorced_married,none,2,no_property,44,none,for free,1,management,1,yes,yes,2
+no_acc,24,existing_paid,television,3430,silver,seven+,3,male_single,none,2,other,31,none,own,1,skilled,2,yes,yes,1
+no_acc,9,critical,new_car,2134,low,four,4,male_single,none,4,other,48,none,own,3,skilled,1,yes,yes,1
+low,6,existing_paid,television,2647,silver,four,2,male_single,none,3,real_estate,44,none,rent,1,skilled,2,no,yes,1
+low,10,critical,new_car,2241,low,one,1,male_single,none,3,real_estate,48,none,rent,2,unskilled,2,no,no,1
+medium,12,critical,old_car,1804,medium,one,3,male_single,none,4,agreement,44,none,own,1,skilled,1,no,yes,1
+no_acc,10,critical,furniture,2069,no_acc,four,2,male_married,none,1,other,26,none,own,2,skilled,1,no,no,1
+low,6,existing_paid,furniture,1374,low,four,1,male_single,none,2,real_estate,36,bank,own,1,unskilled,1,yes,yes,1
+no_acc,6,no_credit,television,426,low,seven+,4,male_married,none,4,other,39,none,own,1,unskilled,1,no,yes,1
+high,12,paid,television,409,gold,four,3,female_divorced_married,none,3,real_estate,42,none,rent,2,skilled,1,no,yes,1
+medium,7,existing_paid,television,2415,low,four,3,male_single,guarantor,2,real_estate,34,none,own,1,skilled,1,no,yes,1
+low,60,delay,business,6836,low,seven+,3,male_single,none,4,no_property,63,none,own,2,skilled,1,yes,yes,2
+medium,18,existing_paid,business,1913,gold,one,3,male_married,none,3,real_estate,36,bank,own,1,skilled,1,yes,yes,1
+low,24,existing_paid,furniture,4020,low,four,2,male_single,none,2,other,27,stores,own,1,skilled,1,no,yes,1
+medium,18,existing_paid,new_car,5866,medium,four,2,male_single,none,2,other,30,none,own,2,skilled,1,yes,yes,1
+no_acc,12,critical,business,1264,no_acc,seven+,4,male_single,none,4,no_property,57,none,rent,1,unskilled,1,no,yes,1
+high,12,existing_paid,furniture,1474,low,one,4,female_divorced_married,none,1,agreement,33,bank,own,1,management,1,yes,yes,1
+medium,45,critical,television,4746,low,one,4,male_single,none,2,agreement,25,none,own,2,unskilled,1,no,yes,2
+no_acc,48,critical,education,6110,low,four,1,male_single,none,3,no_property,31,bank,for free,1,skilled,1,yes,yes,1
+high,18,existing_paid,television,2100,low,four,4,male_single,co-applicant,2,real_estate,37,stores,own,1,skilled,1,no,yes,2
+high,10,existing_paid,domestic,1225,low,four,2,male_single,none,2,other,37,none,own,1,skilled,1,yes,yes,1
+medium,9,existing_paid,television,458,low,four,4,male_single,none,3,real_estate,24,none,own,1,skilled,1,no,yes,1
+no_acc,30,existing_paid,television,2333,silver,seven+,4,male_single,none,2,other,30,bank,own,1,management,1,no,yes,1
+medium,12,existing_paid,television,1158,silver,four,3,male_divorced,none,1,other,26,none,own,1,skilled,1,yes,yes,1
+medium,18,delay,repairs,6204,low,four,2,male_single,none,4,real_estate,44,none,own,1,unskilled,2,yes,yes,1
+low,30,critical,old_car,6187,medium,seven,1,male_married,none,4,other,24,none,rent,2,skilled,1,no,yes,1
+low,48,critical,old_car,6143,low,seven+,4,female_divorced_married,none,4,no_property,58,stores,for free,2,unskilled,1,no,yes,2
+no_acc,11,critical,new_car,1393,low,one,4,female_divorced_married,none,4,other,35,none,own,2,management,1,no,yes,1
+no_acc,36,existing_paid,television,2299,silver,seven+,4,male_single,none,4,other,39,none,own,1,skilled,1,no,yes,1
+low,6,existing_paid,old_car,1352,silver,unemployed,1,female_divorced_married,none,2,agreement,23,none,rent,1,unemployed,1,yes,yes,1
+no_acc,11,critical,new_car,7228,low,four,1,male_single,none,4,agreement,39,none,own,2,unskilled,1,no,yes,1
+no_acc,12,existing_paid,television,2073,medium,four,4,female_divorced_married,co-applicant,2,real_estate,28,none,own,1,skilled,1,no,yes,1
+medium,24,delay,furniture,2333,no_acc,one,4,male_single,none,2,agreement,29,bank,own,1,unskilled,1,no,yes,1
+medium,27,delay,old_car,5965,low,seven+,1,male_single,none,2,other,30,none,own,2,management,1,yes,yes,1
+no_acc,12,existing_paid,television,1262,low,four,3,male_single,none,2,other,25,none,own,1,skilled,1,no,yes,1
+no_acc,18,existing_paid,old_car,3378,no_acc,four,2,male_single,none,1,agreement,31,none,own,1,skilled,1,yes,yes,1
+medium,36,delay,new_car,2225,low,seven+,4,male_single,none,4,no_property,57,bank,for free,2,skilled,1,yes,yes,2
+no_acc,6,paid,new_car,783,no_acc,four,1,male_single,guarantor,2,real_estate,26,stores,own,1,unskilled,2,no,yes,1
+medium,12,existing_paid,television,6468,no_acc,unemployed,2,male_single,none,1,no_property,52,none,own,1,management,1,yes,yes,2
+no_acc,36,critical,television,9566,low,four,2,female_divorced_married,none,2,other,31,stores,own,2,skilled,1,no,yes,1
+high,18,existing_paid,new_car,1961,low,seven+,3,female_divorced_married,none,2,other,23,none,own,1,management,1,no,yes,1
+low,36,critical,furniture,6229,low,one,4,female_divorced_married,co-applicant,4,no_property,23,none,rent,2,unskilled,1,yes,yes,2
+medium,9,existing_paid,business,1391,low,four,2,male_married,none,1,real_estate,27,bank,own,1,skilled,1,yes,yes,1
+medium,15,critical,television,1537,no_acc,seven+,4,male_single,guarantor,4,real_estate,50,none,own,2,skilled,1,yes,yes,1
+medium,36,no_credit,business,1953,low,seven+,4,male_single,none,4,no_property,61,none,for free,1,management,1,yes,yes,2
+medium,48,no_credit,business,14421,low,four,2,male_single,none,2,other,25,none,own,1,skilled,1,yes,yes,2
+no_acc,24,existing_paid,television,3181,low,one,4,female_divorced_married,none,4,agreement,26,none,own,1,skilled,1,yes,yes,1
+no_acc,27,existing_paid,repairs,5190,no_acc,seven+,4,male_single,none,4,agreement,48,none,own,4,skilled,2,yes,yes,1
+no_acc,12,existing_paid,television,2171,low,one,2,female_divorced_married,none,2,other,29,bank,own,1,skilled,1,no,yes,1
+medium,12,existing_paid,new_car,1007,gold,four,4,male_married,none,1,real_estate,22,none,own,1,skilled,1,no,yes,1
+no_acc,36,existing_paid,education,1819,low,four,4,male_single,none,4,no_property,37,stores,for free,1,skilled,1,yes,yes,2
+no_acc,36,existing_paid,television,2394,no_acc,four,4,female_divorced_married,none,4,other,25,none,own,1,skilled,1,no,yes,1
+no_acc,36,existing_paid,old_car,8133,low,four,1,female_divorced_married,none,2,agreement,30,bank,own,1,skilled,1,no,yes,1
+no_acc,7,critical,television,730,no_acc,seven+,4,male_single,none,2,agreement,46,none,rent,2,unskilled,1,yes,yes,1
+low,8,critical,others,1164,low,seven+,3,male_single,none,4,no_property,51,bank,for free,2,management,2,yes,yes,1
+medium,42,critical,business,5954,low,seven,2,female_divorced_married,none,1,real_estate,41,bank,own,2,unskilled,1,no,yes,1
+low,36,existing_paid,education,1977,no_acc,seven+,4,male_single,none,4,no_property,40,none,own,1,management,1,yes,yes,2
+low,12,critical,old_car,1526,low,seven+,4,male_single,none,4,no_property,66,none,for free,2,management,1,no,yes,1
+low,42,existing_paid,television,3965,low,one,4,male_single,none,3,other,34,none,own,1,skilled,1,no,yes,2
+medium,11,delay,television,4771,low,seven,2,male_single,none,4,agreement,51,none,own,1,skilled,1,no,yes,1
+no_acc,54,no_credit,old_car,9436,no_acc,four,2,male_single,none,2,agreement,39,none,own,1,unskilled,2,no,yes,1
+medium,30,existing_paid,furniture,3832,low,one,2,male_married,none,1,agreement,22,none,own,1,skilled,1,no,yes,1
+no_acc,24,existing_paid,television,5943,no_acc,one,1,female_divorced_married,none,1,other,44,none,own,2,skilled,1,yes,yes,2
+no_acc,15,existing_paid,television,1213,silver,seven+,4,male_single,none,3,agreement,47,stores,own,1,skilled,1,yes,yes,1
+no_acc,18,existing_paid,business,1568,medium,four,3,female_divorced_married,none,4,agreement,24,none,rent,1,unskilled,1,no,yes,1
+low,24,existing_paid,others,1755,low,seven+,4,female_divorced_married,guarantor,4,real_estate,58,none,own,1,unskilled,1,yes,yes,1
+low,10,existing_paid,television,2315,low,seven+,3,male_single,none,4,real_estate,52,none,own,1,unskilled,1,no,yes,1
+no_acc,12,critical,business,1412,low,four,4,female_divorced_married,guarantor,2,real_estate,29,none,own,2,management,1,yes,yes,1
+medium,18,critical,furniture,1295,low,one,4,female_divorced_married,none,1,agreement,27,none,own,2,skilled,1,no,yes,1
+medium,36,existing_paid,education,12612,medium,four,1,male_single,none,4,no_property,47,none,for free,1,skilled,2,yes,yes,2
+low,18,existing_paid,new_car,2249,medium,seven,4,male_single,none,3,other,30,none,own,1,management,2,yes,yes,1
+low,12,no_credit,repairs,1108,low,seven,4,male_single,none,3,real_estate,28,none,own,2,skilled,1,no,yes,2
+no_acc,12,critical,television,618,low,seven+,4,male_single,none,4,real_estate,56,none,own,1,skilled,1,no,yes,1
+low,12,critical,old_car,1409,low,seven+,4,male_single,none,3,real_estate,54,none,own,1,skilled,1,no,yes,1
+no_acc,12,critical,television,797,no_acc,seven+,4,female_divorced_married,none,3,agreement,33,bank,own,1,unskilled,2,no,yes,2
+high,24,critical,furniture,3617,no_acc,seven+,4,male_single,co-applicant,4,no_property,20,none,rent,2,skilled,1,no,yes,1
+medium,12,existing_paid,new_car,1318,gold,seven+,4,male_single,none,4,real_estate,54,none,own,1,skilled,1,yes,yes,1
+medium,54,no_credit,business,15945,low,one,3,male_single,none,4,no_property,58,none,rent,1,skilled,1,yes,yes,2
+no_acc,12,critical,education,2012,no_acc,seven,4,female_divorced_married,none,2,other,61,none,own,1,skilled,1,no,yes,1
+medium,18,existing_paid,business,2622,medium,four,4,male_single,none,4,other,34,none,own,1,skilled,1,no,yes,1
+medium,36,critical,television,2337,low,seven+,4,male_single,none,4,real_estate,36,none,own,1,skilled,1,no,yes,1
+medium,20,delay,old_car,7057,no_acc,seven,3,male_single,none,4,agreement,36,bank,rent,2,management,2,yes,yes,1
+no_acc,24,existing_paid,new_car,1469,medium,seven+,4,male_married,none,4,real_estate,41,none,rent,1,unskilled,1,no,yes,1
+medium,36,existing_paid,television,2323,low,seven,4,male_single,none,4,other,24,none,rent,1,skilled,1,no,yes,1
+no_acc,6,delay,television,932,low,four,3,female_divorced_married,none,2,real_estate,24,none,own,1,skilled,1,no,yes,1
+medium,9,critical,furniture,1919,low,seven,4,male_single,none,3,other,35,none,rent,1,skilled,1,yes,yes,1
+no_acc,12,existing_paid,old_car,2445,no_acc,one,2,male_married,none,4,other,26,none,rent,1,skilled,1,yes,yes,1
+medium,24,critical,others,11938,low,four,2,male_single,co-applicant,3,other,39,none,own,2,management,2,yes,yes,2
+no_acc,18,paid,new_car,6458,low,seven+,2,male_single,none,4,no_property,39,bank,own,2,management,2,yes,yes,2
+medium,12,existing_paid,new_car,6078,low,seven,2,male_single,none,2,other,32,none,own,1,skilled,1,no,yes,1
+low,24,existing_paid,furniture,7721,no_acc,one,1,female_divorced_married,none,2,agreement,30,none,own,1,skilled,1,yes,no,1
+medium,14,existing_paid,business,1410,silver,seven+,1,male_married,none,2,real_estate,35,none,own,1,skilled,1,yes,yes,1
+medium,6,delay,business,1449,medium,seven+,1,male_divorced,none,2,other,31,bank,own,2,skilled,2,no,yes,1
+high,15,existing_paid,education,392,low,one,4,female_divorced_married,none,4,agreement,23,none,rent,1,skilled,1,yes,yes,1
+medium,18,existing_paid,new_car,6260,low,seven,3,male_single,none,3,real_estate,28,none,rent,1,unskilled,1,no,yes,1
+no_acc,36,critical,new_car,7855,low,four,4,female_divorced_married,none,2,real_estate,25,stores,own,2,skilled,1,yes,yes,2
+low,12,existing_paid,television,1680,silver,seven+,3,male_married,none,1,real_estate,35,none,own,1,skilled,1,no,yes,1
+no_acc,48,critical,television,3578,no_acc,seven+,4,male_single,none,1,real_estate,47,none,own,1,skilled,1,yes,yes,1
+low,42,existing_paid,television,7174,no_acc,seven,4,female_divorced_married,none,3,other,30,none,own,1,management,1,yes,yes,2
+low,10,critical,furniture,2132,no_acc,one,2,female_divorced_married,co-applicant,3,real_estate,27,none,rent,2,skilled,1,no,no,1
+low,33,critical,furniture,4281,silver,four,1,female_divorced_married,none,4,other,23,none,own,2,skilled,1,no,yes,2
+medium,12,critical,new_car,2366,silver,seven,3,male_divorced,none,3,other,36,none,own,1,management,1,yes,yes,1
+low,21,existing_paid,television,1835,low,four,3,female_divorced_married,none,2,real_estate,25,none,own,2,skilled,1,yes,yes,2
+no_acc,24,critical,old_car,3868,low,seven+,4,female_divorced_married,none,2,other,41,none,rent,2,management,1,yes,yes,1
+no_acc,12,existing_paid,furniture,1768,low,four,3,male_single,none,2,real_estate,24,none,rent,1,unskilled,1,no,yes,1
+high,10,critical,new_car,781,low,seven+,4,male_single,none,4,no_property,63,none,for free,2,skilled,1,yes,yes,1
+medium,18,existing_paid,furniture,1924,no_acc,one,4,female_divorced_married,none,3,real_estate,27,none,rent,1,skilled,1,no,yes,2
+low,12,critical,new_car,2121,low,four,4,male_single,none,2,agreement,30,none,own,2,skilled,1,no,yes,1
+low,12,existing_paid,television,701,low,four,4,male_married,none,2,real_estate,40,none,own,1,unskilled,1,no,yes,1
+medium,12,existing_paid,repairs,639,low,four,4,male_single,none,2,other,30,none,own,1,skilled,1,no,yes,2
+medium,12,critical,old_car,1860,low,unemployed,4,male_single,none,2,other,34,none,own,2,management,1,yes,yes,1
+low,12,critical,new_car,3499,low,four,3,female_divorced_married,co-applicant,2,real_estate,29,none,own,2,skilled,1,no,yes,2
+medium,48,existing_paid,new_car,8487,no_acc,seven,1,female_divorced_married,none,2,other,24,none,own,1,skilled,1,no,yes,1
+low,36,delay,education,6887,low,four,4,male_single,none,3,agreement,29,stores,own,1,skilled,1,yes,yes,2
+no_acc,15,existing_paid,furniture,2708,low,one,2,male_single,none,3,agreement,27,bank,own,2,unskilled,1,no,yes,1
+no_acc,18,existing_paid,furniture,1984,low,four,4,male_single,none,4,no_property,47,bank,for free,2,skilled,1,no,yes,1
+no_acc,60,existing_paid,television,10144,medium,seven,2,female_divorced_married,none,4,real_estate,21,none,own,1,skilled,1,yes,yes,1
+no_acc,12,critical,television,1240,no_acc,seven+,4,female_divorced_married,none,2,real_estate,38,none,own,2,skilled,1,yes,yes,1
+no_acc,27,delay,old_car,8613,gold,four,2,male_single,none,2,other,27,none,own,2,skilled,1,no,yes,1
+medium,12,existing_paid,television,766,silver,four,4,male_single,none,3,real_estate,66,none,own,1,unskilled,1,no,yes,2
+medium,15,critical,television,2728,no_acc,seven,4,male_single,guarantor,2,real_estate,35,bank,own,3,skilled,1,yes,yes,1
+high,12,existing_paid,television,1881,low,four,2,female_divorced_married,none,2,other,44,none,rent,1,unskilled,1,yes,yes,1
+high,6,existing_paid,new_car,709,gold,one,2,male_married,none,2,real_estate,27,none,own,1,unemployed,1,no,no,1
+medium,36,existing_paid,television,4795,low,one,4,female_divorced_married,none,1,no_property,30,none,own,1,management,1,yes,yes,1
+low,27,existing_paid,television,3416,low,four,3,male_single,none,2,other,27,none,own,1,management,1,no,yes,1
+low,18,existing_paid,furniture,2462,low,four,2,male_single,none,2,other,22,none,own,1,skilled,1,no,yes,2
+no_acc,21,critical,furniture,2288,low,one,4,female_divorced_married,none,4,agreement,23,none,own,1,skilled,1,yes,yes,1
+medium,48,paid,business,3566,medium,seven,4,male_single,none,2,other,30,none,own,1,skilled,1,no,yes,1
+low,6,critical,new_car,860,low,seven+,1,female_divorced_married,none,4,no_property,39,none,own,2,skilled,1,yes,yes,1
+no_acc,12,critical,new_car,682,medium,seven,4,female_divorced_married,none,3,other,51,none,own,2,skilled,1,yes,yes,1
+low,36,critical,furniture,5371,low,four,3,male_single,guarantor,2,agreement,28,none,own,2,skilled,1,no,yes,1
+no_acc,18,critical,television,1582,gold,seven+,4,male_single,none,4,other,46,none,own,2,skilled,1,no,yes,1
+no_acc,6,existing_paid,television,1346,medium,seven+,2,male_single,none,4,no_property,42,bank,for free,1,skilled,2,yes,yes,1
+no_acc,10,existing_paid,television,1924,low,four,1,male_single,none,4,agreement,38,none,own,1,skilled,1,yes,no,1
+high,36,existing_paid,television,5848,low,four,4,male_single,none,1,other,24,none,own,1,skilled,1,no,yes,1
+medium,24,critical,old_car,7758,gold,seven+,2,female_divorced_married,none,4,no_property,29,none,rent,1,skilled,1,no,yes,1
+medium,24,delay,business,6967,medium,seven,4,male_single,none,4,other,36,none,rent,1,management,1,yes,yes,1
+low,12,existing_paid,furniture,1282,low,four,2,female_divorced_married,none,4,other,20,none,rent,1,skilled,1,no,yes,2
+low,9,critical,repairs,1288,medium,seven+,3,male_single,guarantor,4,real_estate,48,none,own,2,skilled,2,no,no,1
+low,12,paid,retraining,339,low,seven+,4,male_married,none,1,other,45,bank,own,1,unskilled,1,no,yes,1
+medium,24,existing_paid,new_car,3512,medium,seven,2,male_single,none,3,other,38,bank,own,2,skilled,1,yes,yes,1
+no_acc,6,critical,television,1898,no_acc,four,1,male_single,none,2,real_estate,34,none,own,2,unskilled,2,no,yes,1
+no_acc,24,critical,television,2872,medium,seven+,3,male_single,none,4,real_estate,36,none,own,1,skilled,2,yes,yes,1
+no_acc,18,critical,new_car,1055,low,one,4,female_divorced_married,none,1,agreement,30,none,own,2,skilled,1,no,yes,1
+no_acc,15,existing_paid,domestic,1262,silver,seven,4,male_single,none,3,agreement,36,none,own,2,skilled,1,yes,yes,1
+medium,10,existing_paid,new_car,7308,low,unemployed,2,male_single,none,4,no_property,70,bank,for free,1,management,1,yes,yes,1
+no_acc,36,existing_paid,new_car,909,silver,seven+,4,male_single,none,4,agreement,36,none,own,1,skilled,1,no,yes,1
+no_acc,6,existing_paid,furniture,2978,silver,four,1,male_single,none,2,other,32,none,own,1,skilled,1,yes,yes,1
+low,18,existing_paid,furniture,1131,low,unemployed,4,female_divorced_married,none,2,other,33,none,own,1,skilled,1,no,yes,2
+medium,11,existing_paid,furniture,1577,gold,one,4,female_divorced_married,none,1,real_estate,20,none,own,1,skilled,1,no,yes,1
+no_acc,24,existing_paid,furniture,3972,low,seven,2,female_divorced_married,none,4,agreement,25,none,rent,1,skilled,1,yes,yes,1
+medium,24,critical,business,1935,low,seven+,4,male_divorced,none,4,real_estate,31,none,own,2,skilled,1,yes,yes,2
+low,15,no_credit,new_car,950,low,seven+,4,male_single,none,3,other,33,none,rent,2,skilled,2,no,yes,2
+no_acc,12,existing_paid,furniture,763,low,four,4,female_divorced_married,none,1,real_estate,26,none,own,1,skilled,1,yes,yes,1
+medium,24,delay,furniture,2064,low,unemployed,3,female_divorced_married,none,2,agreement,34,none,own,1,management,1,yes,yes,2
+medium,8,existing_paid,television,1414,low,four,4,male_single,guarantor,2,real_estate,33,none,own,1,skilled,1,no,no,1
+low,21,delay,education,3414,low,one,2,male_single,none,1,agreement,26,none,own,2,skilled,1,no,yes,2
+no_acc,30,paid,old_car,7485,no_acc,unemployed,4,female_divorced_married,none,1,real_estate,53,bank,own,1,management,1,yes,yes,2
+low,12,existing_paid,furniture,2577,low,four,2,male_divorced,none,1,other,42,none,own,1,skilled,1,no,yes,1
+low,6,critical,television,338,silver,seven+,4,male_single,none,4,other,52,none,own,2,skilled,1,no,yes,1
+no_acc,12,existing_paid,television,1963,low,seven,4,male_single,none,2,other,31,none,rent,2,management,2,yes,yes,1
+low,21,critical,new_car,571,low,seven+,4,male_single,none,4,real_estate,65,none,own,2,skilled,1,no,yes,1
+no_acc,36,delay,business,9572,low,one,1,male_divorced,none,1,other,28,none,own,2,skilled,1,no,yes,2
+medium,36,delay,business,4455,low,four,2,male_divorced,none,2,real_estate,30,stores,own,2,management,1,yes,yes,2
+low,21,paid,new_car,1647,no_acc,four,4,male_single,none,2,agreement,40,none,own,2,unskilled,2,no,yes,2
+no_acc,24,critical,furniture,3777,gold,four,4,male_single,none,4,real_estate,50,none,own,1,skilled,1,yes,yes,1
+medium,18,critical,new_car,884,low,seven+,4,male_single,none,4,other,36,bank,own,1,skilled,2,yes,yes,2
+no_acc,15,critical,television,1360,low,four,4,male_single,none,2,agreement,31,none,own,2,skilled,1,no,yes,1
+medium,9,paid,old_car,5129,low,seven+,2,female_divorced_married,none,4,no_property,74,bank,for free,1,management,2,yes,yes,2
+medium,16,critical,new_car,1175,low,unemployed,2,male_single,none,3,other,68,none,for free,3,unemployed,1,yes,yes,1
+low,12,existing_paid,television,674,medium,seven,4,male_married,none,1,agreement,20,none,own,1,skilled,1,no,yes,2
+medium,18,no_credit,furniture,3244,low,four,1,female_divorced_married,none,4,other,33,bank,own,2,skilled,1,yes,yes,1
+no_acc,24,existing_paid,business,4591,gold,four,2,male_single,none,3,agreement,54,none,own,3,management,1,yes,yes,2
+medium,48,no_credit,business,3844,medium,seven,4,male_single,none,4,no_property,34,none,for free,1,unskilled,2,no,yes,2
+medium,27,existing_paid,business,3915,low,four,4,male_single,none,2,other,36,none,own,1,skilled,2,yes,yes,2
+no_acc,6,existing_paid,television,2108,low,seven,2,male_married,none,2,real_estate,29,none,rent,1,skilled,1,no,yes,1
+medium,45,existing_paid,television,3031,medium,four,4,male_single,guarantor,4,agreement,21,none,rent,1,skilled,1,no,yes,2
+medium,9,critical,education,1501,low,seven+,2,female_divorced_married,none,3,other,34,none,own,2,management,1,yes,yes,2
+no_acc,6,critical,television,1382,low,four,1,female_divorced_married,none,1,other,28,none,own,2,skilled,1,yes,yes,1
+medium,12,existing_paid,furniture,951,medium,one,4,female_divorced_married,none,4,other,27,bank,rent,4,skilled,1,no,yes,2
+medium,24,existing_paid,old_car,2760,no_acc,seven+,4,male_single,none,4,no_property,36,bank,for free,1,skilled,1,yes,yes,1
+medium,18,delay,furniture,4297,low,seven+,4,male_divorced,none,3,no_property,40,none,own,1,management,1,yes,yes,2
+no_acc,9,critical,education,936,silver,seven+,4,male_single,none,2,other,52,none,own,2,skilled,1,yes,yes,1
+low,12,existing_paid,new_car,1168,low,four,4,male_married,none,3,real_estate,27,none,own,1,unskilled,1,no,yes,1
+no_acc,27,delay,business,5117,low,seven,3,male_single,none,4,other,26,none,own,2,skilled,1,no,yes,1
+low,12,existing_paid,retraining,902,low,seven,4,male_married,none,4,agreement,21,none,rent,1,skilled,1,no,yes,2
+no_acc,12,critical,new_car,1495,low,seven+,4,male_single,none,1,real_estate,38,none,own,2,unskilled,2,no,yes,1
+low,30,critical,old_car,10623,low,seven+,3,male_single,none,4,no_property,38,none,for free,3,management,2,yes,yes,1
+no_acc,12,critical,furniture,1935,low,seven+,4,male_single,none,4,real_estate,43,none,own,3,skilled,1,yes,yes,1
+medium,12,critical,domestic,1424,low,seven,4,male_single,none,3,agreement,26,none,own,1,skilled,1,no,yes,1
+low,24,existing_paid,business,6568,low,four,2,male_married,none,2,other,21,stores,own,1,unskilled,1,no,yes,1
+no_acc,12,existing_paid,old_car,1413,gold,seven,3,male_single,none,2,agreement,55,none,own,1,skilled,1,no,no,1
+no_acc,9,critical,television,3074,no_acc,four,1,male_single,none,2,real_estate,33,none,own,2,skilled,2,no,yes,1
+no_acc,36,existing_paid,television,3835,no_acc,seven+,2,female_divorced_married,none,4,real_estate,45,none,own,1,unskilled,1,yes,yes,1
+low,27,no_credit,business,5293,low,unemployed,2,male_single,none,4,agreement,50,stores,own,2,skilled,1,yes,yes,2
+high,30,delay,business,1908,low,seven+,4,male_single,none,4,real_estate,66,none,own,1,management,1,yes,yes,2
+no_acc,36,critical,television,3342,no_acc,seven+,4,male_single,none,2,other,51,none,own,1,skilled,1,yes,yes,1
+medium,6,critical,retraining,932,no_acc,seven,1,female_divorced_married,none,3,agreement,39,none,own,2,unskilled,1,no,yes,1
+low,18,no_credit,business,3104,low,seven,3,male_single,none,1,agreement,31,bank,own,1,skilled,1,yes,yes,1
+high,36,existing_paid,television,3913,low,four,2,male_single,none,2,real_estate,23,none,own,1,skilled,1,yes,yes,1
+low,24,existing_paid,furniture,3021,low,four,2,male_divorced,none,2,real_estate,24,none,rent,1,unskilled,1,no,yes,1
+no_acc,10,existing_paid,new_car,1364,low,four,2,female_divorced_married,none,4,other,64,none,own,1,skilled,1,yes,yes,1
+medium,12,existing_paid,television,625,low,one,4,male_married,guarantor,1,real_estate,26,bank,own,1,unskilled,1,no,yes,1
+low,12,existing_paid,education,1200,no_acc,four,4,female_divorced_married,none,4,agreement,23,bank,rent,1,skilled,1,yes,yes,1
+no_acc,12,existing_paid,television,707,low,four,4,male_single,none,2,real_estate,30,bank,own,2,skilled,1,no,yes,1
+no_acc,24,delay,business,2978,no_acc,four,4,male_single,none,4,real_estate,32,none,own,2,skilled,2,yes,yes,1
+no_acc,15,existing_paid,old_car,4657,low,four,3,male_single,none,2,other,30,none,own,1,skilled,1,yes,yes,1
+no_acc,36,no_credit,repairs,2613,low,four,4,male_single,none,2,other,27,none,own,2,skilled,1,no,yes,1
+medium,48,existing_paid,television,10961,gold,seven,1,male_single,co-applicant,2,no_property,27,bank,own,2,skilled,1,yes,yes,2
+low,12,existing_paid,furniture,7865,low,seven+,4,male_single,none,4,no_property,53,none,for free,1,management,1,yes,yes,2
+no_acc,9,existing_paid,television,1478,low,seven,4,male_single,none,2,other,22,none,own,1,skilled,1,no,yes,2
+low,24,existing_paid,furniture,3149,low,one,4,male_single,none,1,no_property,22,bank,for free,1,skilled,1,no,yes,1
+high,36,existing_paid,television,4210,low,four,4,male_single,none,2,other,26,none,own,1,skilled,1,no,yes,2
+no_acc,9,existing_paid,new_car,2507,silver,seven+,2,male_single,none,4,no_property,51,none,for free,1,unskilled,1,no,yes,1
+no_acc,12,existing_paid,television,2141,medium,seven,3,male_single,none,1,no_property,35,none,own,1,skilled,1,no,yes,1
+medium,18,existing_paid,television,866,low,four,4,male_married,guarantor,2,real_estate,25,none,own,1,unskilled,1,no,yes,1
+no_acc,4,critical,television,1544,low,seven,2,male_single,none,1,real_estate,42,none,own,3,unskilled,2,no,yes,1
+low,24,existing_paid,television,1823,low,unemployed,4,male_single,none,2,other,30,stores,own,1,management,2,no,yes,2
+medium,6,existing_paid,new_car,14555,no_acc,unemployed,1,male_single,none,2,agreement,23,none,own,1,unemployed,1,yes,yes,2
+medium,21,existing_paid,business,2767,medium,seven+,4,male_divorced,none,2,other,61,bank,rent,2,unskilled,1,no,yes,2
+no_acc,12,critical,television,1291,low,four,4,female_divorced_married,none,2,agreement,35,none,own,2,skilled,1,no,yes,1
+low,30,existing_paid,television,2522,low,seven+,1,male_single,guarantor,3,agreement,39,none,own,1,skilled,2,no,yes,1
+low,24,existing_paid,new_car,915,no_acc,seven+,4,female_divorced_married,none,2,other,29,bank,own,1,skilled,1,no,yes,2
+no_acc,6,existing_paid,television,1595,low,seven,3,male_single,none,2,agreement,51,none,own,1,skilled,2,no,yes,1
+low,48,no_credit,old_car,4605,low,seven+,3,male_single,none,4,no_property,24,none,for free,2,skilled,2,no,yes,2
+no_acc,12,critical,business,1185,low,four,3,female_divorced_married,none,2,real_estate,27,none,own,2,skilled,1,no,yes,1
+no_acc,12,paid,retraining,3447,silver,four,4,female_divorced_married,none,3,real_estate,35,none,own,1,unskilled,2,no,yes,1
+no_acc,24,existing_paid,business,1258,low,seven,4,male_single,none,1,real_estate,25,none,own,1,skilled,1,yes,yes,1
+no_acc,12,critical,television,717,low,seven+,4,male_single,none,4,real_estate,52,none,own,3,skilled,1,no,yes,1
+no_acc,6,no_credit,new_car,1204,medium,four,4,male_single,none,1,no_property,35,bank,rent,1,skilled,1,no,no,1
+high,24,existing_paid,furniture,1925,low,four,2,male_single,none,2,real_estate,26,none,own,1,skilled,1,no,yes,1
+no_acc,18,existing_paid,television,433,low,unemployed,3,female_divorced_married,co-applicant,4,real_estate,22,none,rent,1,skilled,1,no,yes,2
+low,6,critical,new_car,666,gold,seven,3,female_divorced_married,none,4,real_estate,39,none,own,2,unskilled,1,yes,yes,1
+high,12,existing_paid,furniture,2251,low,four,1,female_divorced_married,none,2,other,46,none,own,1,unskilled,1,no,yes,1
+medium,30,existing_paid,new_car,2150,low,four,4,female_divorced_married,guarantor,2,no_property,24,bank,own,1,skilled,1,no,yes,2
+no_acc,24,delay,furniture,4151,medium,four,2,male_single,none,3,agreement,35,none,own,2,skilled,1,no,yes,1
+medium,9,existing_paid,furniture,2030,no_acc,seven,2,male_single,none,1,other,24,none,own,1,skilled,1,yes,yes,1
+medium,60,delay,television,7418,no_acc,four,1,male_single,none,1,real_estate,27,none,own,1,unskilled,1,no,yes,1
+no_acc,24,critical,television,2684,low,four,4,male_single,none,2,real_estate,35,none,own,2,unskilled,1,no,yes,1
+low,12,paid,television,2149,low,four,4,male_divorced,none,1,no_property,29,none,for free,1,skilled,1,no,yes,2
+no_acc,15,existing_paid,old_car,3812,medium,one,1,female_divorced_married,none,4,other,23,none,own,1,skilled,1,yes,yes,1
+no_acc,11,critical,television,1154,medium,unemployed,4,female_divorced_married,none,4,real_estate,57,none,own,3,unskilled,1,no,yes,1
+low,12,existing_paid,furniture,1657,low,four,2,male_single,none,2,real_estate,27,none,own,1,skilled,1,no,yes,1
+low,24,existing_paid,television,1603,low,seven+,4,female_divorced_married,none,4,other,55,none,own,1,skilled,1,no,yes,1
+low,18,critical,new_car,5302,low,seven+,2,male_single,none,4,no_property,36,none,for free,3,management,1,yes,yes,1
+no_acc,12,critical,education,2748,low,seven+,2,female_divorced_married,none,4,no_property,57,bank,for free,3,unskilled,1,no,yes,1
+no_acc,10,critical,new_car,1231,low,seven+,3,male_single,none,4,real_estate,32,none,own,2,unskilled,2,no,no,1
+medium,15,existing_paid,television,802,low,seven+,4,male_single,none,3,other,37,none,own,1,skilled,2,no,yes,2
+no_acc,36,critical,business,6304,no_acc,seven+,4,male_single,none,4,real_estate,36,none,own,2,skilled,1,no,yes,1
+no_acc,24,existing_paid,television,1533,low,one,4,female_divorced_married,none,3,other,38,stores,own,1,skilled,1,yes,yes,1
+low,14,existing_paid,new_car,8978,low,seven+,1,male_divorced,none,4,agreement,45,none,own,1,management,1,yes,no,2
+no_acc,24,existing_paid,television,999,no_acc,seven+,4,male_single,none,2,other,25,none,own,2,skilled,1,no,yes,1
+no_acc,18,existing_paid,new_car,2662,no_acc,seven,4,male_single,none,3,agreement,32,none,own,1,skilled,1,no,no,1
+no_acc,12,critical,furniture,1402,silver,seven,3,female_divorced_married,none,4,other,37,none,rent,1,skilled,1,yes,yes,1
+medium,48,paid,new_car,12169,no_acc,unemployed,4,male_single,co-applicant,4,no_property,36,none,for free,1,management,1,yes,yes,1
+medium,48,existing_paid,television,3060,low,seven,4,male_single,none,4,real_estate,28,none,own,2,skilled,1,no,yes,2
+low,30,existing_paid,repairs,11998,low,one,1,male_divorced,none,1,no_property,34,none,own,1,unskilled,1,yes,yes,2
+no_acc,9,existing_paid,television,2697,low,four,1,male_single,none,2,real_estate,32,none,own,1,skilled,2,no,yes,1
+no_acc,18,critical,television,2404,low,four,2,female_divorced_married,none,2,other,26,none,own,2,skilled,1,no,yes,1
+low,12,existing_paid,furniture,1262,no_acc,seven+,2,male_divorced,none,4,agreement,49,none,own,1,unskilled,1,yes,yes,1
+no_acc,6,existing_paid,furniture,4611,low,one,1,female_divorced_married,none,4,agreement,32,none,own,1,skilled,1,no,yes,2
+no_acc,24,existing_paid,television,1901,medium,four,4,male_single,none,4,other,29,none,rent,1,management,1,yes,yes,1
+no_acc,15,critical,old_car,3368,gold,seven+,3,male_single,none,4,no_property,23,none,rent,2,skilled,1,yes,yes,1
+no_acc,12,existing_paid,furniture,1574,low,four,4,male_single,none,2,real_estate,50,none,own,1,skilled,1,no,yes,1
+high,18,paid,television,1445,no_acc,seven,4,male_single,none,4,other,49,bank,own,1,unskilled,1,no,yes,1
+no_acc,15,critical,furniture,1520,no_acc,seven+,4,male_single,none,4,agreement,63,none,own,1,skilled,1,no,yes,1
+medium,24,critical,new_car,3878,medium,one,4,male_divorced,none,2,other,37,none,own,1,skilled,1,yes,yes,1
+low,47,existing_paid,new_car,10722,low,one,1,female_divorced_married,none,1,real_estate,35,none,own,1,unskilled,1,yes,yes,1
+low,48,existing_paid,old_car,4788,low,seven,4,male_single,none,3,agreement,26,none,own,1,skilled,2,no,yes,1
+medium,48,delay,others,7582,medium,unemployed,2,male_single,none,4,no_property,31,none,for free,1,management,1,yes,yes,1
+medium,12,existing_paid,television,1092,low,four,4,female_divorced_married,guarantor,4,real_estate,49,none,own,2,skilled,1,yes,yes,1
+low,24,delay,television,1024,low,one,4,male_married,none,4,real_estate,48,stores,own,1,skilled,1,no,yes,2
+no_acc,12,existing_paid,business,1076,low,four,2,male_married,none,2,real_estate,26,none,own,1,skilled,1,yes,no,1
+medium,36,existing_paid,old_car,9398,low,one,1,male_married,none,4,other,28,none,rent,1,management,1,yes,yes,2
+low,24,critical,old_car,6419,low,seven+,2,female_divorced_married,none,4,no_property,44,none,for free,2,management,2,yes,yes,1
+high,42,critical,old_car,4796,low,seven+,4,male_single,none,4,no_property,56,none,for free,1,skilled,1,no,yes,1
+no_acc,48,critical,business,7629,no_acc,seven+,4,male_divorced,none,2,other,46,bank,own,2,management,2,no,yes,1
+medium,48,existing_paid,furniture,9960,low,one,1,female_divorced_married,none,2,other,26,none,own,1,skilled,1,yes,yes,2
+no_acc,12,existing_paid,old_car,4675,no_acc,one,1,female_divorced_married,none,4,other,20,none,rent,1,skilled,1,no,yes,1
+no_acc,10,existing_paid,new_car,1287,no_acc,seven+,4,male_single,co-applicant,2,agreement,45,none,own,1,unskilled,1,no,no,1
+no_acc,18,existing_paid,furniture,2515,low,four,3,male_single,none,4,real_estate,43,none,own,1,skilled,1,yes,yes,1
+medium,21,critical,furniture,2745,gold,seven,3,male_single,none,2,other,32,none,own,2,skilled,1,yes,yes,1
+no_acc,6,existing_paid,new_car,672,low,unemployed,1,female_divorced_married,none,4,real_estate,54,none,own,1,unemployed,1,yes,yes,1
+medium,36,no_credit,television,3804,low,four,4,female_divorced_married,none,1,other,42,none,own,1,skilled,1,yes,yes,2
+high,24,critical,new_car,1344,no_acc,seven,4,male_single,none,2,real_estate,37,bank,own,2,unskilled,2,no,yes,2
+low,10,critical,new_car,1038,low,seven,4,male_single,co-applicant,3,agreement,49,none,own,2,skilled,1,yes,yes,1
+no_acc,48,critical,new_car,10127,silver,four,2,male_single,none,2,no_property,44,bank,for free,1,skilled,1,no,yes,2
+no_acc,6,existing_paid,furniture,1543,gold,four,4,male_divorced,none,2,real_estate,33,none,own,1,skilled,1,no,yes,1
+no_acc,30,existing_paid,old_car,4811,no_acc,seven,2,female_divorced_married,none,4,agreement,24,stores,rent,1,unskilled,1,no,yes,1
+low,12,existing_paid,television,727,medium,one,4,male_married,none,3,no_property,33,none,own,1,unskilled,1,yes,yes,2
+medium,8,existing_paid,furniture,1237,low,four,3,female_divorced_married,none,4,real_estate,24,none,own,1,skilled,1,no,yes,2
+medium,9,existing_paid,new_car,276,low,four,4,male_married,none,4,real_estate,22,none,rent,1,unskilled,1,no,yes,1
+medium,48,existing_paid,others,5381,no_acc,unemployed,3,male_single,none,4,no_property,40,bank,for free,1,unemployed,1,yes,yes,1
+no_acc,24,existing_paid,furniture,5511,medium,four,4,male_single,none,1,other,25,stores,own,1,skilled,1,no,yes,1
+high,24,existing_paid,furniture,3749,low,one,2,female_divorced_married,none,4,other,26,none,own,1,skilled,1,no,yes,1
+medium,12,existing_paid,new_car,685,low,seven,2,male_married,none,3,other,25,bank,own,1,unskilled,1,no,yes,2
+high,4,existing_paid,new_car,1494,no_acc,one,1,male_single,none,2,real_estate,29,none,own,1,unskilled,2,no,no,1
+low,36,paid,furniture,2746,low,seven+,4,male_single,none,4,other,31,bank,own,1,skilled,1,no,yes,2
+low,12,existing_paid,furniture,708,low,four,2,male_single,guarantor,3,agreement,38,none,own,1,unskilled,2,no,yes,1
+medium,24,existing_paid,furniture,4351,no_acc,four,1,female_divorced_married,none,4,agreement,48,none,own,1,unskilled,1,yes,yes,1
+no_acc,12,critical,education,701,low,four,4,male_single,none,2,other,32,none,own,2,skilled,1,no,yes,1
+low,15,delay,furniture,3643,low,seven+,1,female_divorced_married,none,4,agreement,27,none,own,2,unskilled,1,no,yes,1
+medium,30,critical,new_car,4249,low,unemployed,4,male_married,none,2,other,28,none,own,2,management,1,no,yes,2
+low,24,existing_paid,television,1938,low,one,4,male_divorced,none,3,agreement,32,none,own,1,skilled,1,no,yes,2
+low,24,existing_paid,old_car,2910,low,seven,2,male_single,none,1,no_property,34,none,for free,1,management,1,yes,yes,1
+low,18,existing_paid,furniture,2659,gold,four,4,male_single,none,2,other,28,none,own,1,skilled,1,no,yes,1
+no_acc,18,critical,new_car,1028,low,four,4,female_divorced_married,none,3,real_estate,36,none,own,2,skilled,1,no,yes,1
+low,8,critical,new_car,3398,low,seven,1,male_single,none,4,real_estate,39,none,own,2,unskilled,1,no,no,1
+no_acc,12,critical,furniture,5801,no_acc,seven+,2,male_single,none,4,agreement,49,none,rent,1,skilled,1,yes,yes,1
+no_acc,24,existing_paid,new_car,1525,gold,seven,4,female_divorced_married,none,3,other,34,none,own,1,skilled,2,yes,yes,1
+high,36,existing_paid,television,4473,low,seven+,4,male_single,none,2,other,31,none,own,1,skilled,1,no,yes,1
+medium,6,existing_paid,television,1068,low,seven+,4,male_single,none,4,other,28,none,own,1,skilled,2,no,yes,1
+low,24,critical,old_car,6615,low,unemployed,2,male_single,none,4,no_property,75,none,for free,2,management,1,yes,yes,1
+no_acc,18,critical,education,1864,medium,four,4,female_divorced_married,none,2,real_estate,30,none,own,2,skilled,1,no,yes,2
+medium,60,existing_paid,new_car,7408,medium,one,4,female_divorced_married,none,2,agreement,24,none,own,1,management,1,no,yes,2
+no_acc,48,critical,old_car,11590,medium,four,2,female_divorced_married,none,4,other,24,bank,rent,2,unskilled,1,no,yes,2
+low,24,no_credit,furniture,4110,low,seven+,3,male_single,none,4,no_property,23,bank,rent,2,skilled,2,no,yes,2
+low,6,critical,furniture,3384,low,four,1,male_divorced,none,4,real_estate,44,none,rent,1,management,1,yes,yes,2
+medium,13,existing_paid,television,2101,low,one,2,female_divorced_married,guarantor,4,agreement,23,none,own,1,unskilled,1,no,yes,1
+low,15,existing_paid,domestic,1275,no_acc,four,4,female_divorced_married,none,2,other,24,none,rent,1,skilled,1,no,yes,2
+low,24,existing_paid,furniture,4169,low,four,4,male_single,none,4,agreement,28,none,own,1,skilled,1,no,yes,1
+medium,10,existing_paid,furniture,1521,low,four,4,male_divorced,none,2,other,31,none,own,1,unskilled,1,no,yes,1
+medium,24,critical,education,5743,low,one,2,female_divorced_married,none,4,no_property,24,none,for free,2,skilled,1,yes,yes,1
+low,21,existing_paid,furniture,3599,low,seven,1,female_divorced_married,none,4,other,26,none,rent,1,unskilled,1,no,yes,1
+medium,18,existing_paid,television,3213,silver,one,1,male_married,none,3,real_estate,25,none,rent,1,skilled,1,no,yes,1
+medium,18,existing_paid,business,4439,low,seven+,1,male_single,co-applicant,1,real_estate,33,bank,own,1,management,1,yes,yes,1
+high,10,existing_paid,new_car,3949,low,one,1,male_single,guarantor,1,agreement,37,none,own,1,unskilled,2,no,yes,1
+no_acc,15,critical,television,1459,low,four,4,female_divorced_married,none,2,other,43,none,own,1,unskilled,1,no,yes,1
+medium,13,critical,television,882,low,one,4,male_single,guarantor,4,real_estate,23,none,own,2,skilled,1,no,yes,1
+medium,24,existing_paid,television,3758,silver,unemployed,1,female_divorced_married,none,4,no_property,23,none,rent,1,unemployed,1,no,yes,1
+no_acc,6,delay,business,1743,medium,four,1,male_single,none,2,real_estate,34,none,own,2,unskilled,1,no,yes,1
+medium,9,critical,education,1136,gold,seven+,4,male_single,none,3,no_property,32,none,for free,2,skilled,2,no,yes,2
+no_acc,9,existing_paid,domestic,1236,low,one,1,female_divorced_married,none,4,real_estate,23,none,rent,1,skilled,1,yes,yes,1
+medium,9,existing_paid,furniture,959,low,four,1,female_divorced_married,none,2,other,29,none,own,1,skilled,1,no,no,2
+no_acc,18,critical,old_car,3229,no_acc,unemployed,2,male_single,none,4,no_property,38,none,own,1,management,1,yes,yes,1
+low,12,no_credit,television,6199,low,four,4,male_single,none,2,agreement,28,none,rent,2,skilled,1,yes,yes,2
+no_acc,10,existing_paid,education,727,silver,seven+,4,male_single,none,4,no_property,46,none,for free,1,skilled,1,yes,yes,1
+medium,24,existing_paid,new_car,1246,low,one,4,male_single,none,2,real_estate,23,stores,own,1,unskilled,1,no,yes,2
+no_acc,12,critical,television,2331,no_acc,seven+,1,male_single,co-applicant,4,real_estate,49,none,own,1,skilled,1,yes,yes,1
+no_acc,36,delay,television,4463,low,four,4,male_single,none,2,other,26,none,own,2,management,1,yes,yes,2
+no_acc,12,existing_paid,television,776,low,four,4,male_married,none,2,real_estate,28,none,own,1,skilled,1,no,yes,1
+low,30,existing_paid,furniture,2406,low,seven,4,female_divorced_married,none,4,real_estate,23,none,rent,1,skilled,1,no,yes,2
+medium,18,existing_paid,education,1239,no_acc,four,4,male_single,none,4,no_property,61,none,for free,1,skilled,1,no,yes,1
+high,12,existing_paid,television,3399,no_acc,seven+,2,male_single,none,3,other,37,none,own,1,management,1,no,yes,1
+high,12,delay,new_car,2247,low,four,2,female_divorced_married,none,2,other,36,stores,own,2,skilled,1,yes,yes,1
+no_acc,6,existing_paid,furniture,1766,low,four,1,male_married,none,2,agreement,21,none,rent,1,skilled,1,no,yes,1
+low,18,existing_paid,furniture,2473,low,unemployed,4,male_single,none,1,other,25,none,own,1,unemployed,1,no,yes,2
+no_acc,12,existing_paid,business,1542,low,seven,2,male_single,none,4,other,36,none,own,1,skilled,1,yes,yes,1
+no_acc,18,critical,old_car,3850,low,seven,3,male_single,none,1,other,27,none,own,2,skilled,1,no,yes,1
+low,18,existing_paid,furniture,3650,low,one,1,female_divorced_married,none,4,other,22,none,rent,1,skilled,1,no,yes,1
+low,36,existing_paid,furniture,3446,low,seven+,4,male_single,none,2,other,42,none,own,1,skilled,2,no,yes,2
+medium,18,existing_paid,furniture,3001,low,seven,2,female_divorced_married,none,4,real_estate,40,none,rent,1,skilled,1,no,yes,1
+no_acc,36,existing_paid,new_car,3079,no_acc,four,4,male_single,none,4,real_estate,36,none,own,1,skilled,1,no,yes,1
+no_acc,18,critical,television,6070,low,seven+,3,male_single,none,4,other,33,none,own,2,skilled,1,yes,yes,1
+no_acc,10,critical,furniture,2146,low,one,1,female_divorced_married,none,3,real_estate,23,none,rent,2,skilled,1,no,yes,1
+no_acc,60,critical,new_car,13756,no_acc,seven+,2,male_single,none,4,no_property,63,bank,for free,1,management,1,yes,yes,1
+medium,60,paid,others,14782,medium,seven+,3,female_divorced_married,none,4,no_property,60,bank,for free,2,management,1,yes,yes,2
+low,48,paid,business,7685,low,seven,2,female_divorced_married,guarantor,4,other,37,none,rent,1,skilled,1,no,yes,2
+no_acc,18,delay,television,2320,low,unemployed,2,male_married,none,3,real_estate,34,none,own,2,skilled,1,no,yes,1
+no_acc,7,delay,television,846,no_acc,seven+,3,male_single,none,4,no_property,36,none,for free,1,skilled,1,no,yes,1
+medium,36,existing_paid,new_car,14318,low,seven+,4,male_single,none,2,no_property,57,none,for free,1,management,1,yes,yes,2
+no_acc,6,critical,new_car,362,medium,four,4,female_divorced_married,none,4,other,52,none,own,2,unskilled,1,no,yes,1
+low,20,existing_paid,furniture,2212,no_acc,seven,4,male_single,none,4,other,39,none,own,1,skilled,1,yes,yes,1
+medium,18,existing_paid,old_car,12976,low,unemployed,3,female_divorced_married,none,4,no_property,38,none,for free,1,management,1,yes,yes,2
+no_acc,22,existing_paid,new_car,1283,no_acc,seven,4,female_divorced_married,none,4,agreement,25,none,rent,1,skilled,1,no,yes,1
+high,12,existing_paid,new_car,1330,low,one,4,male_single,none,1,real_estate,26,none,own,1,skilled,1,no,yes,1
+no_acc,30,delay,business,4272,medium,four,2,male_single,none,2,agreement,26,none,own,2,unskilled,1,no,yes,1
+no_acc,18,critical,television,2238,low,four,2,female_divorced_married,none,1,other,25,none,own,2,skilled,1,no,yes,1
+no_acc,18,existing_paid,television,1126,no_acc,one,4,female_divorced_married,none,2,real_estate,21,none,rent,1,skilled,1,yes,yes,1
+medium,18,critical,furniture,7374,low,unemployed,4,male_single,none,4,agreement,40,stores,own,2,management,1,yes,yes,1
+medium,15,critical,business,2326,silver,four,2,male_single,none,4,other,27,bank,own,1,skilled,1,no,yes,1
+no_acc,9,existing_paid,business,1449,low,seven,3,female_divorced_married,none,2,other,27,none,own,2,skilled,1,no,yes,1
+no_acc,18,existing_paid,new_car,1820,low,four,2,male_married,none,2,agreement,30,none,own,1,management,1,yes,yes,1
+medium,12,existing_paid,furniture,983,gold,one,1,female_divorced_married,none,4,real_estate,19,none,rent,1,unskilled,1,no,yes,1
+low,36,existing_paid,new_car,3249,low,seven,2,male_single,none,4,no_property,39,bank,for free,1,management,2,yes,yes,1
+low,6,critical,television,1957,low,seven,1,female_divorced_married,none,4,other,31,none,own,1,skilled,1,no,yes,1
+no_acc,9,critical,furniture,2406,low,unemployed,2,male_single,none,3,other,31,none,own,1,management,1,no,yes,1
+medium,39,delay,education,11760,medium,seven,2,male_single,none,3,no_property,32,none,rent,1,skilled,1,yes,yes,1
+low,12,existing_paid,furniture,2578,low,unemployed,3,female_divorced_married,none,4,no_property,55,none,for free,1,management,1,no,yes,1
+low,36,critical,furniture,2348,low,four,3,male_married,none,2,agreement,46,none,own,2,skilled,1,yes,yes,1
+medium,12,existing_paid,new_car,1223,low,seven+,1,male_divorced,none,1,real_estate,46,none,rent,2,skilled,1,no,yes,2
+no_acc,24,critical,television,1516,gold,four,4,female_divorced_married,none,1,real_estate,43,none,own,2,unskilled,1,no,yes,1
+no_acc,18,existing_paid,television,1473,low,one,3,male_married,none,4,real_estate,39,none,own,1,skilled,1,yes,yes,1
+medium,18,critical,business,1887,no_acc,four,4,male_married,none,4,real_estate,28,bank,own,2,skilled,1,no,yes,1
+no_acc,24,delay,business,8648,low,one,2,male_single,none,2,other,27,bank,own,2,skilled,1,yes,yes,2
+no_acc,14,delay,new_car,802,low,four,4,male_single,none,2,other,27,none,own,2,unskilled,1,no,yes,1
+medium,18,delay,new_car,2899,no_acc,seven+,4,male_single,none,4,other,43,none,own,1,skilled,2,no,yes,1
+medium,24,existing_paid,television,2039,low,one,1,male_married,none,1,agreement,22,none,own,1,skilled,1,yes,yes,2
+no_acc,24,critical,old_car,2197,no_acc,seven,4,male_single,none,4,other,43,none,own,2,skilled,2,yes,yes,1
+low,15,existing_paid,television,1053,low,one,4,male_married,none,2,real_estate,27,none,own,1,skilled,1,no,no,1
+no_acc,24,existing_paid,television,3235,silver,seven+,3,male_divorced,none,2,other,26,none,own,1,management,1,yes,yes,1
+high,12,critical,new_car,939,silver,seven,4,male_married,none,2,real_estate,28,none,own,3,skilled,1,yes,yes,2
+medium,24,existing_paid,television,1967,low,seven+,4,female_divorced_married,none,4,other,20,none,own,1,skilled,1,yes,yes,1
+no_acc,33,critical,old_car,7253,low,seven,3,male_single,none,2,other,35,none,own,2,management,1,yes,yes,1
+no_acc,12,critical,business,2292,low,unemployed,4,male_single,none,2,other,42,stores,own,2,management,1,yes,yes,2
+no_acc,10,existing_paid,new_car,1597,silver,four,3,male_single,none,2,no_property,40,none,rent,1,unskilled,2,no,no,1
+low,24,existing_paid,new_car,1381,no_acc,four,4,female_divorced_married,none,2,agreement,35,none,own,1,skilled,1,no,yes,2
+no_acc,36,critical,old_car,5842,low,seven+,2,male_single,none,2,agreement,35,none,own,2,skilled,2,yes,yes,1
+low,12,existing_paid,new_car,2579,low,one,4,male_single,none,1,real_estate,33,none,own,1,unskilled,2,no,yes,2
+low,18,delay,education,8471,no_acc,four,1,female_divorced_married,none,2,other,23,none,rent,2,skilled,1,yes,yes,1
+no_acc,21,existing_paid,new_car,2782,silver,seven,1,female_divorced_married,none,2,other,31,bank,own,1,management,1,no,yes,1
+medium,18,existing_paid,new_car,1042,no_acc,four,4,female_divorced_married,none,2,agreement,33,none,own,1,skilled,1,no,yes,2
+no_acc,15,existing_paid,new_car,3186,gold,seven,2,female_divorced_married,none,3,other,20,none,rent,1,skilled,1,no,yes,1
+medium,12,existing_paid,old_car,2028,no_acc,four,4,male_single,none,2,other,30,none,own,1,skilled,1,no,yes,1
+medium,12,critical,new_car,958,low,seven,2,male_single,none,3,real_estate,47,none,own,2,unskilled,2,no,yes,1
+no_acc,21,delay,furniture,1591,medium,seven,4,male_single,none,3,real_estate,34,none,own,2,management,1,no,yes,1
+medium,12,existing_paid,furniture,2762,no_acc,seven+,1,female_divorced_married,none,2,agreement,25,bank,own,1,skilled,1,yes,yes,2
+medium,18,existing_paid,old_car,2779,low,four,1,male_married,none,3,other,21,none,rent,1,skilled,1,yes,yes,1
+no_acc,28,critical,television,2743,low,seven+,4,male_single,none,2,other,29,none,own,2,skilled,1,no,yes,1
+no_acc,18,critical,television,1149,gold,four,4,male_single,none,3,real_estate,46,none,own,2,skilled,1,no,yes,1
+no_acc,9,existing_paid,furniture,1313,low,seven+,1,male_single,none,4,other,20,none,own,1,skilled,1,no,yes,1
+low,18,critical,repairs,1190,low,unemployed,2,female_divorced_married,none,4,no_property,55,none,for free,3,unemployed,2,no,yes,2
+no_acc,5,existing_paid,business,3448,low,seven,1,male_single,none,4,real_estate,74,none,own,1,unskilled,1,no,yes,1
+medium,24,existing_paid,others,11328,low,four,2,male_single,co-applicant,3,other,29,bank,own,2,management,1,yes,yes,2
+low,6,critical,furniture,1872,low,unemployed,4,male_single,none,4,no_property,36,none,for free,3,management,1,yes,yes,1
+no_acc,24,critical,repairs,2058,low,four,4,male_divorced,none,2,real_estate,33,none,own,2,skilled,1,yes,yes,1
+low,9,existing_paid,furniture,2136,low,four,3,male_single,none,2,real_estate,25,none,own,1,skilled,1,no,yes,1
+medium,12,existing_paid,television,1484,no_acc,four,2,male_married,none,1,real_estate,25,none,own,1,skilled,1,yes,yes,2
+no_acc,6,existing_paid,repairs,660,silver,seven,2,male_married,none,4,real_estate,23,none,rent,1,unskilled,1,no,yes,1
+no_acc,24,critical,new_car,1287,gold,seven+,4,female_divorced_married,none,4,real_estate,37,none,own,2,skilled,1,yes,yes,1
+low,42,critical,repairs,3394,low,unemployed,4,male_single,co-applicant,4,other,65,none,own,2,unemployed,1,no,yes,1
+high,12,paid,business,609,low,one,4,female_divorced_married,none,1,real_estate,26,none,own,1,unemployed,1,no,yes,2
+no_acc,12,existing_paid,new_car,1884,low,seven+,4,male_single,none,4,other,39,none,own,1,management,1,yes,yes,1
+low,12,existing_paid,furniture,1620,low,four,2,female_divorced_married,co-applicant,3,agreement,30,none,own,1,skilled,1,no,yes,1
+medium,20,delay,others,2629,low,four,2,male_single,none,3,other,29,bank,own,2,skilled,1,yes,yes,1
+no_acc,12,existing_paid,education,719,low,seven+,4,male_single,none,4,other,41,bank,own,1,unskilled,2,no,yes,2
+medium,48,critical,furniture,5096,low,four,2,female_divorced_married,none,3,other,30,none,own,1,management,1,yes,yes,2
+no_acc,9,critical,education,1244,no_acc,seven+,4,female_divorced_married,none,4,agreement,41,none,rent,2,unskilled,1,no,yes,1
+low,36,existing_paid,new_car,1842,low,one,4,female_divorced_married,none,4,other,34,none,own,1,skilled,1,yes,yes,2
+medium,7,existing_paid,television,2576,low,four,2,male_single,guarantor,2,real_estate,35,none,own,1,skilled,1,no,yes,1
+high,12,existing_paid,furniture,1424,no_acc,seven+,3,female_divorced_married,none,4,real_estate,55,none,own,1,management,1,yes,yes,1
+medium,15,delay,repairs,1512,gold,four,3,male_married,none,3,agreement,61,stores,own,2,skilled,1,no,yes,2
+no_acc,36,critical,old_car,11054,no_acc,four,4,male_single,none,2,other,30,none,own,1,management,1,yes,yes,1
+no_acc,6,existing_paid,television,518,low,four,3,female_divorced_married,none,1,real_estate,29,none,own,1,skilled,1,no,yes,1
+no_acc,12,no_credit,furniture,2759,low,seven+,2,male_single,none,4,agreement,34,none,own,2,skilled,1,no,yes,1
+no_acc,24,existing_paid,old_car,2670,low,seven+,4,male_single,none,4,other,35,none,own,1,management,1,yes,yes,1
+low,24,existing_paid,new_car,4817,low,seven,2,male_single,co-applicant,3,agreement,31,none,own,1,skilled,1,yes,yes,2
+no_acc,24,existing_paid,old_car,2679,low,one,4,female_divorced_married,none,1,no_property,29,none,own,1,management,1,yes,yes,1
+low,11,critical,new_car,3905,low,four,2,male_single,none,2,real_estate,36,none,rent,2,skilled,2,no,yes,1
+low,12,existing_paid,old_car,3386,low,seven+,3,male_single,none,4,no_property,35,none,for free,1,skilled,1,yes,yes,2
+low,6,existing_paid,domestic,343,low,one,4,female_divorced_married,none,1,real_estate,27,none,own,1,skilled,1,no,yes,1
+no_acc,18,existing_paid,television,4594,low,one,3,male_single,none,2,other,32,none,own,1,skilled,1,yes,yes,1
+low,36,existing_paid,furniture,3620,low,four,1,male_single,guarantor,2,agreement,37,none,own,1,skilled,2,no,yes,1
+low,15,existing_paid,new_car,1721,low,one,2,male_single,none,3,real_estate,36,none,own,1,skilled,1,no,yes,1
+medium,12,existing_paid,furniture,3017,low,one,3,female_divorced_married,none,1,real_estate,34,none,rent,1,management,1,no,yes,1
+medium,12,existing_paid,retraining,754,no_acc,seven+,4,male_single,none,4,agreement,38,none,own,2,skilled,1,no,yes,1
+no_acc,18,existing_paid,business,1950,low,seven,4,male_single,none,1,other,34,stores,own,2,skilled,1,yes,yes,1
+low,24,existing_paid,old_car,2924,low,four,3,male_single,guarantor,4,no_property,63,bank,own,1,skilled,2,yes,yes,1
+low,24,delay,television,1659,low,one,4,female_divorced_married,none,2,other,29,none,rent,1,unskilled,1,yes,yes,2
+no_acc,48,delay,television,7238,no_acc,seven+,3,male_single,none,3,other,32,bank,own,2,skilled,2,no,yes,1
+no_acc,33,delay,business,2764,low,four,2,female_divorced_married,none,2,other,26,none,own,2,skilled,1,yes,yes,1
+no_acc,24,delay,old_car,4679,low,seven,3,male_single,none,3,other,35,none,own,2,unskilled,1,yes,yes,1
+medium,24,existing_paid,television,3092,medium,one,3,male_married,none,2,other,22,none,rent,1,skilled,1,yes,yes,2
+low,6,existing_paid,education,448,low,one,4,female_divorced_married,none,4,agreement,23,none,own,1,skilled,1,no,yes,2
+low,9,existing_paid,new_car,654,low,four,4,male_single,none,3,other,28,none,own,1,unskilled,1,no,yes,2
+no_acc,6,existing_paid,retraining,1238,no_acc,unemployed,4,male_single,none,4,agreement,36,none,own,1,management,2,yes,yes,1
+medium,18,critical,television,1245,low,four,4,male_married,none,2,other,33,none,own,1,skilled,1,no,yes,2
+low,18,no_credit,furniture,3114,low,one,1,female_divorced_married,none,4,agreement,26,none,rent,1,skilled,1,no,yes,2
+no_acc,39,existing_paid,old_car,2569,silver,four,4,male_single,none,4,other,24,none,own,1,skilled,1,no,yes,1
+high,24,existing_paid,television,5152,low,seven,4,male_single,none,2,other,25,bank,own,1,skilled,1,no,yes,1
+medium,12,existing_paid,business,1037,medium,seven,3,male_single,none,4,real_estate,39,none,own,1,unskilled,1,no,yes,1
+low,15,critical,furniture,1478,low,seven+,4,male_single,none,4,other,44,none,own,2,skilled,2,yes,yes,1
+medium,12,critical,television,3573,low,four,1,female_divorced_married,none,1,real_estate,23,none,own,1,unskilled,1,no,yes,1
+medium,24,existing_paid,new_car,1201,low,one,4,male_single,none,1,agreement,26,none,own,1,skilled,1,no,yes,1
+low,30,existing_paid,furniture,3622,gold,seven+,4,female_divorced_married,none,4,agreement,57,none,rent,2,skilled,1,yes,yes,1
+no_acc,15,delay,furniture,960,gold,seven,3,female_divorced_married,none,2,agreement,30,none,own,2,skilled,1,no,yes,1
+no_acc,12,critical,new_car,1163,silver,four,4,male_single,none,4,real_estate,44,none,own,1,skilled,1,yes,yes,1
+medium,6,delay,new_car,1209,low,unemployed,4,male_single,none,4,agreement,47,none,own,1,management,1,yes,yes,2
+no_acc,12,existing_paid,television,3077,low,four,2,male_single,none,4,other,52,none,own,1,skilled,1,yes,yes,1
+no_acc,24,existing_paid,new_car,3757,low,seven+,4,female_divorced_married,co-applicant,4,no_property,62,none,for free,1,skilled,1,yes,yes,1
+no_acc,10,existing_paid,new_car,1418,medium,four,3,male_single,none,2,real_estate,35,none,rent,1,unskilled,1,no,no,1
+no_acc,6,existing_paid,new_car,3518,low,four,2,male_single,guarantor,3,agreement,26,none,rent,1,skilled,1,no,yes,1
+no_acc,12,critical,television,1934,low,seven+,2,male_single,none,2,no_property,26,none,own,2,skilled,1,no,yes,1
+medium,27,no_credit,business,8318,low,seven+,2,female_divorced_married,none,4,no_property,42,none,for free,2,management,1,yes,yes,2
+no_acc,6,critical,television,1237,medium,four,1,female_divorced_married,none,1,agreement,27,none,own,2,skilled,1,no,yes,1
+medium,6,existing_paid,television,368,no_acc,seven+,4,male_single,none,4,agreement,38,none,own,1,skilled,1,no,yes,1
+low,12,critical,new_car,2122,low,four,3,male_single,none,2,real_estate,39,none,rent,2,unskilled,2,no,no,1
+low,24,existing_paid,furniture,2996,no_acc,four,2,male_married,none,4,other,20,none,own,1,skilled,1,no,yes,2
+medium,36,existing_paid,furniture,9034,medium,one,4,male_single,co-applicant,1,no_property,29,none,rent,1,management,1,yes,yes,2
+no_acc,24,critical,furniture,1585,low,seven,4,male_single,none,3,agreement,40,none,own,2,skilled,1,no,yes,1
+medium,18,existing_paid,television,1301,low,seven+,4,male_married,guarantor,2,real_estate,32,none,own,1,unskilled,1,no,yes,1
+high,6,critical,new_car,1323,medium,seven+,2,male_divorced,none,4,other,28,none,own,2,skilled,2,yes,yes,1
+low,24,existing_paid,new_car,3123,low,one,4,female_divorced_married,none,1,agreement,27,none,own,1,skilled,1,no,yes,2
+low,36,existing_paid,old_car,5493,low,seven+,2,male_single,none,4,no_property,42,none,for free,1,skilled,2,no,yes,1
+high,9,existing_paid,television,1126,medium,seven+,2,male_divorced,none,4,real_estate,49,none,own,1,skilled,1,no,yes,1
+medium,24,critical,television,1216,medium,one,4,male_single,none,4,no_property,38,bank,own,2,skilled,2,no,yes,2
+low,24,existing_paid,new_car,1207,low,one,4,female_divorced_married,none,4,agreement,24,none,rent,1,skilled,1,no,yes,2
+no_acc,10,existing_paid,new_car,1309,no_acc,four,4,male_single,guarantor,4,agreement,27,none,own,1,unskilled,1,no,yes,2
+high,15,critical,old_car,2360,silver,four,2,male_single,none,2,other,36,none,own,1,skilled,1,yes,yes,1
+medium,15,paid,new_car,6850,medium,unemployed,1,male_single,none,2,agreement,34,none,own,1,management,2,yes,yes,2
+no_acc,24,existing_paid,television,1413,low,four,4,male_married,none,2,agreement,28,none,own,1,skilled,1,no,yes,1
+no_acc,39,existing_paid,old_car,8588,medium,seven+,4,male_single,none,2,other,45,none,own,1,management,1,yes,yes,1
+low,12,existing_paid,new_car,759,low,seven,4,male_single,none,2,real_estate,26,none,own,1,skilled,1,no,yes,2
+no_acc,36,existing_paid,old_car,4686,low,four,2,male_single,none,2,no_property,32,none,for free,1,management,1,yes,yes,1
+high,15,existing_paid,business,2687,low,seven,2,male_single,none,4,agreement,26,none,rent,1,skilled,1,yes,yes,1
+medium,12,delay,television,585,low,four,4,male_married,co-applicant,4,real_estate,20,none,rent,2,skilled,1,no,yes,1
+no_acc,24,existing_paid,new_car,2255,no_acc,one,4,male_single,none,1,agreement,54,none,own,1,skilled,1,no,yes,1
+low,6,critical,new_car,609,low,seven,4,female_divorced_married,none,3,agreement,37,none,own,2,skilled,1,no,no,1
+low,6,critical,new_car,1361,low,one,2,male_single,none,4,real_estate,40,none,own,1,unskilled,2,no,no,1
+no_acc,36,critical,furniture,7127,low,one,2,female_divorced_married,none,4,agreement,23,none,rent,2,skilled,1,yes,yes,2
+low,6,existing_paid,new_car,1203,medium,seven+,3,male_single,none,2,agreement,43,none,own,1,skilled,1,yes,yes,1
+no_acc,6,critical,television,700,no_acc,seven+,4,male_single,none,4,no_property,36,none,for free,2,skilled,1,no,yes,1
+no_acc,24,critical,repairs,5507,low,seven+,3,male_single,none,4,no_property,44,none,for free,2,skilled,1,no,yes,1
+low,18,existing_paid,television,3190,low,four,2,female_divorced_married,none,2,real_estate,24,none,own,1,skilled,1,no,yes,2
+low,48,no_credit,furniture,7119,low,four,3,male_single,none,4,no_property,53,none,for free,2,skilled,2,no,yes,2
+no_acc,24,existing_paid,old_car,3488,medium,seven,3,female_divorced_married,none,4,other,23,none,own,1,skilled,1,no,yes,1
+medium,18,existing_paid,television,1113,low,four,4,female_divorced_married,guarantor,4,real_estate,26,none,own,1,unskilled,2,no,yes,1
+medium,26,existing_paid,old_car,7966,low,one,2,male_single,none,3,other,30,none,own,2,skilled,1,no,yes,1
+no_acc,15,critical,education,1532,medium,four,4,female_divorced_married,none,3,other,31,none,own,1,skilled,1,no,yes,1
+no_acc,4,critical,television,1503,low,seven,2,male_single,none,1,real_estate,42,none,own,2,unskilled,2,no,yes,1
+low,36,existing_paid,television,2302,low,four,4,male_divorced,none,4,other,31,none,rent,1,skilled,1,no,yes,2
+low,6,existing_paid,new_car,662,low,one,3,male_single,none,4,real_estate,41,none,own,1,unskilled,2,yes,yes,1
+medium,36,existing_paid,education,2273,low,seven,3,male_single,none,1,other,32,none,own,2,skilled,2,no,yes,1
+medium,15,existing_paid,new_car,2631,medium,four,2,female_divorced_married,none,4,other,28,none,rent,2,skilled,1,yes,yes,2
+no_acc,12,delay,old_car,1503,low,four,4,male_married,none,4,real_estate,41,none,rent,1,skilled,1,no,yes,1
+no_acc,24,existing_paid,television,1311,medium,seven,4,male_married,none,3,agreement,26,none,own,1,skilled,1,yes,yes,1
+no_acc,24,existing_paid,television,3105,no_acc,one,4,male_single,none,2,other,25,none,own,2,skilled,1,no,yes,1
+high,21,critical,education,2319,low,one,2,male_divorced,none,1,other,33,none,rent,1,skilled,1,no,yes,2
+low,6,existing_paid,new_car,1374,no_acc,unemployed,4,female_divorced_married,none,3,agreement,75,none,own,1,management,1,yes,yes,1
+medium,18,critical,furniture,3612,low,seven+,3,female_divorced_married,none,4,agreement,37,none,own,1,skilled,1,yes,yes,1
+low,48,existing_paid,new_car,7763,low,seven+,4,male_single,none,4,no_property,42,bank,for free,1,management,1,no,yes,2
+high,18,existing_paid,furniture,3049,low,one,1,female_divorced_married,none,1,agreement,45,stores,own,1,unskilled,1,no,yes,1
+medium,12,existing_paid,television,1534,low,one,1,male_married,none,1,real_estate,23,none,rent,1,skilled,1,no,yes,2
+no_acc,24,delay,new_car,2032,low,seven+,4,male_single,none,4,no_property,60,none,for free,2,skilled,1,yes,yes,1
+low,30,existing_paid,furniture,6350,no_acc,seven+,4,male_single,none,4,agreement,31,none,own,1,skilled,1,no,yes,2
+high,18,existing_paid,furniture,2864,low,four,2,male_single,none,1,real_estate,34,none,own,1,unskilled,2,no,yes,2
+no_acc,12,critical,new_car,1255,low,seven+,4,male_single,none,4,real_estate,61,none,own,2,unskilled,1,no,yes,1
+low,24,delay,new_car,1333,low,unemployed,4,male_single,none,2,real_estate,43,none,for free,2,skilled,2,no,yes,2
+no_acc,24,critical,new_car,2022,low,four,4,female_divorced_married,none,4,other,37,none,own,1,skilled,1,yes,yes,1
+no_acc,24,existing_paid,television,1552,low,seven,3,male_single,none,1,other,32,bank,own,1,skilled,2,no,yes,1
+low,12,paid,television,626,low,four,4,female_divorced_married,none,4,real_estate,24,bank,own,1,unskilled,1,no,yes,2
+no_acc,48,critical,old_car,8858,no_acc,seven,2,male_single,none,1,no_property,35,none,for free,2,skilled,1,yes,yes,1
+no_acc,12,critical,repairs,996,no_acc,seven,4,female_divorced_married,none,4,real_estate,23,none,own,2,skilled,1,no,yes,1
+no_acc,6,paid,television,1750,silver,seven+,2,male_single,none,4,agreement,45,bank,own,1,unskilled,2,no,yes,1
+low,48,existing_paid,television,6999,low,seven,1,male_married,guarantor,1,real_estate,34,none,own,2,skilled,1,yes,yes,2
+medium,12,critical,new_car,1995,medium,one,4,male_single,none,1,other,27,none,own,1,skilled,1,no,yes,1
+medium,9,existing_paid,education,1199,low,seven,4,female_divorced_married,none,4,agreement,67,none,own,2,management,1,yes,yes,1
+medium,12,existing_paid,television,1331,low,one,2,male_single,none,1,other,22,stores,own,1,skilled,1,no,yes,2
+medium,18,no_credit,new_car,2278,medium,one,3,female_divorced_married,none,3,other,28,none,own,2,skilled,1,no,yes,2
+no_acc,21,no_credit,new_car,5003,no_acc,four,1,female_divorced_married,none,4,agreement,29,bank,own,2,skilled,1,yes,yes,2
+low,24,paid,furniture,3552,low,seven,3,male_single,none,4,other,27,bank,own,1,skilled,1,no,yes,2
+medium,18,critical,furniture,1928,low,one,2,male_single,none,2,real_estate,31,none,own,2,unskilled,1,no,yes,2
+low,24,existing_paid,old_car,2964,no_acc,seven+,4,male_single,none,4,no_property,49,bank,for free,1,skilled,2,yes,yes,1
+low,24,paid,television,1546,low,seven,4,male_single,guarantor,4,other,24,bank,rent,1,unskilled,1,no,yes,2
+high,6,delay,television,683,low,one,2,female_divorced_married,none,1,agreement,29,bank,own,1,skilled,1,no,yes,1
+medium,36,existing_paid,new_car,12389,no_acc,four,1,male_single,none,4,no_property,37,none,for free,1,skilled,1,yes,yes,2
+medium,24,delay,business,4712,no_acc,four,4,male_single,none,2,agreement,37,bank,own,2,management,1,yes,yes,1
+medium,24,delay,television,1553,medium,seven,3,female_divorced_married,none,2,agreement,23,none,rent,2,skilled,1,yes,yes,1
+low,12,existing_paid,new_car,1372,low,seven,2,male_divorced,none,3,other,36,none,own,1,skilled,1,no,yes,2
+no_acc,24,critical,television,2578,gold,seven+,2,male_single,none,2,other,34,none,own,1,skilled,1,no,yes,1
+medium,48,existing_paid,television,3979,no_acc,seven,4,male_single,none,1,other,41,none,own,2,skilled,2,yes,yes,1
+low,48,existing_paid,television,6758,low,four,3,female_divorced_married,none,2,other,31,none,own,1,skilled,1,yes,yes,2
+low,24,existing_paid,furniture,3234,low,one,4,female_divorced_married,none,4,real_estate,23,none,rent,1,unskilled,1,yes,yes,2
+no_acc,30,critical,television,5954,low,seven,3,male_single,co-applicant,2,other,38,none,own,1,skilled,1,no,yes,1
+no_acc,24,existing_paid,old_car,5433,no_acc,unemployed,2,female_divorced_married,none,4,agreement,26,none,rent,1,management,1,yes,yes,1
+low,15,existing_paid,business,806,low,four,4,female_divorced_married,none,4,agreement,22,none,own,1,unskilled,1,no,yes,1
+medium,9,existing_paid,television,1082,low,seven+,4,male_single,none,4,other,27,none,own,2,unskilled,1,no,yes,1
+no_acc,15,critical,furniture,2788,low,seven,2,female_divorced_married,co-applicant,3,other,24,bank,own,2,skilled,1,no,yes,1
+medium,12,existing_paid,television,2930,low,seven,2,female_divorced_married,none,1,real_estate,27,none,own,1,skilled,1,no,yes,1
+no_acc,24,critical,education,1927,no_acc,four,3,female_divorced_married,none,2,other,33,none,own,2,skilled,1,yes,yes,1
+medium,36,critical,new_car,2820,low,one,4,male_divorced,none,4,other,27,none,own,2,skilled,1,no,yes,2
+no_acc,24,existing_paid,retraining,937,low,one,4,male_married,none,3,other,27,none,own,2,unskilled,1,no,yes,1
+medium,18,critical,new_car,1056,low,seven+,3,male_single,guarantor,3,real_estate,30,bank,own,2,skilled,1,no,yes,2
+medium,12,critical,new_car,3124,low,one,1,male_single,none,3,real_estate,49,bank,own,2,unskilled,2,no,yes,1
+no_acc,9,existing_paid,furniture,1388,low,four,4,female_divorced_married,none,2,real_estate,26,none,rent,1,skilled,1,no,yes,1
+medium,36,existing_paid,repairs,2384,low,one,4,male_single,none,1,no_property,33,none,rent,1,unskilled,1,no,yes,2
+no_acc,12,existing_paid,new_car,2133,no_acc,seven+,4,female_divorced_married,none,4,no_property,52,none,for free,1,management,1,yes,yes,1
+low,18,existing_paid,furniture,2039,low,four,1,female_divorced_married,none,4,real_estate,20,bank,rent,1,skilled,1,no,yes,2
+low,9,critical,new_car,2799,low,four,2,male_single,none,2,real_estate,36,none,rent,2,skilled,2,no,yes,1
+low,12,existing_paid,furniture,1289,low,four,4,male_single,guarantor,1,agreement,21,none,own,1,unskilled,1,no,yes,1
+low,18,existing_paid,domestic,1217,low,four,4,male_married,none,3,real_estate,47,none,own,1,unskilled,1,yes,yes,2
+low,12,critical,furniture,2246,low,seven+,3,male_single,none,3,agreement,60,none,own,2,skilled,1,no,yes,2
+low,12,critical,television,385,low,seven,4,female_divorced_married,none,3,real_estate,58,none,own,4,unskilled,1,yes,yes,1
+medium,24,delay,new_car,1965,no_acc,four,4,female_divorced_married,none,4,other,42,none,rent,2,skilled,1,yes,yes,1
+no_acc,21,existing_paid,business,1572,gold,seven+,4,female_divorced_married,none,4,real_estate,36,bank,own,1,unskilled,1,no,yes,1
+medium,24,existing_paid,new_car,2718,low,four,3,female_divorced_married,none,4,agreement,20,none,rent,1,unskilled,1,yes,yes,2
+low,24,paid,others,1358,no_acc,seven+,4,male_single,none,3,other,40,stores,own,1,management,1,yes,yes,2
+medium,6,paid,new_car,931,medium,one,1,female_divorced_married,none,1,agreement,32,stores,own,1,unskilled,1,no,yes,2
+low,24,existing_paid,new_car,1442,low,seven,4,female_divorced_married,none,4,other,23,none,rent,2,skilled,1,no,yes,2
+medium,24,no_credit,business,4241,low,four,1,male_single,none,4,real_estate,36,none,own,3,unskilled,1,yes,yes,2
+no_acc,18,critical,new_car,2775,low,seven,2,male_single,none,2,agreement,31,bank,own,2,skilled,1,no,yes,2
+no_acc,24,delay,business,3863,low,four,1,male_single,none,2,no_property,32,none,for free,1,skilled,1,no,yes,1
+medium,7,existing_paid,television,2329,low,one,1,female_divorced_married,guarantor,1,real_estate,45,none,own,1,skilled,1,no,yes,1
+medium,9,existing_paid,furniture,918,low,four,4,female_divorced_married,none,1,agreement,30,none,own,1,skilled,1,no,yes,2
+medium,24,paid,education,1837,low,seven,4,female_divorced_married,none,4,no_property,34,bank,for free,1,unskilled,1,no,yes,2
+no_acc,36,existing_paid,furniture,3349,low,four,4,female_divorced_married,none,2,other,28,none,own,1,management,1,yes,yes,2
+high,10,existing_paid,furniture,1275,low,one,4,female_divorced_married,none,2,agreement,23,none,own,1,skilled,1,no,yes,1
+low,24,paid,furniture,2828,silver,four,4,male_single,none,4,real_estate,22,stores,own,1,skilled,1,yes,yes,1
+no_acc,24,critical,business,4526,low,four,3,male_single,none,2,real_estate,74,none,own,1,management,1,yes,yes,1
+medium,36,existing_paid,television,2671,medium,four,4,female_divorced_married,co-applicant,4,no_property,50,none,for free,1,skilled,1,no,yes,2
+no_acc,18,existing_paid,television,2051,low,one,4,male_single,none,1,real_estate,33,none,own,1,skilled,1,no,yes,1
+no_acc,15,existing_paid,old_car,1300,no_acc,seven+,4,male_single,none,4,no_property,45,bank,for free,1,skilled,2,no,yes,1
+low,12,existing_paid,domestic,741,medium,unemployed,4,female_divorced_married,none,3,agreement,22,none,own,1,skilled,1,no,yes,2
+high,10,existing_paid,new_car,1240,medium,seven+,1,female_divorced_married,none,4,no_property,48,none,for free,1,unskilled,2,no,yes,2
+low,21,existing_paid,television,3357,gold,one,4,female_divorced_married,none,2,other,29,bank,own,1,skilled,1,no,yes,1
+low,24,paid,old_car,3632,low,four,1,female_divorced_married,guarantor,4,other,22,bank,rent,1,skilled,1,no,no,1
+no_acc,18,delay,furniture,1808,low,seven,4,female_divorced_married,none,1,real_estate,22,none,own,1,skilled,1,no,yes,2
+medium,48,no_credit,business,12204,no_acc,four,2,male_single,none,2,other,48,bank,own,1,management,1,yes,yes,1
+medium,60,delay,television,9157,no_acc,four,2,male_single,none,2,no_property,27,none,for free,1,management,1,no,yes,1
+low,6,critical,new_car,3676,low,four,1,male_single,none,3,real_estate,37,none,rent,3,skilled,2,no,yes,1
+medium,30,existing_paid,furniture,3441,medium,four,2,female_divorced_married,co-applicant,4,other,21,none,rent,1,skilled,1,no,yes,2
+no_acc,12,existing_paid,new_car,640,low,four,4,male_divorced,none,2,real_estate,49,none,own,1,unskilled,1,no,yes,1
+medium,21,critical,business,3652,low,seven,2,male_single,none,3,agreement,27,none,own,2,skilled,1,no,yes,1
+no_acc,18,critical,new_car,1530,low,four,3,male_single,none,2,agreement,32,bank,own,2,skilled,1,no,yes,2
+no_acc,48,existing_paid,business,3914,no_acc,four,4,male_divorced,none,2,real_estate,38,bank,own,1,skilled,1,no,yes,2
+low,12,existing_paid,furniture,1858,low,one,4,female_divorced_married,none,1,other,22,none,rent,1,skilled,1,no,yes,1
+low,18,existing_paid,television,2600,low,four,4,male_single,none,4,no_property,65,none,for free,2,skilled,1,no,yes,2
+no_acc,15,existing_paid,television,1979,no_acc,seven+,4,male_single,none,2,other,35,none,own,1,skilled,1,no,yes,1
+high,6,existing_paid,furniture,2116,low,four,2,male_single,none,2,real_estate,41,none,own,1,skilled,1,yes,yes,1
+medium,9,paid,new_car,1437,medium,seven,2,male_single,none,3,no_property,29,none,own,1,skilled,1,no,yes,2
+no_acc,42,critical,furniture,4042,silver,four,4,male_single,none,4,real_estate,36,none,own,2,skilled,1,yes,yes,1
+no_acc,9,existing_paid,education,3832,no_acc,seven+,1,male_single,none,4,real_estate,64,none,own,1,unskilled,1,no,yes,1
+low,24,existing_paid,television,3660,low,four,2,female_divorced_married,none,4,other,28,none,own,1,skilled,1,no,yes,1
+low,18,paid,furniture,1553,low,four,4,male_single,none,3,other,44,bank,own,1,skilled,1,no,yes,2
+medium,15,existing_paid,television,1444,no_acc,one,4,male_single,none,1,agreement,23,none,own,1,skilled,1,no,yes,1
+no_acc,9,existing_paid,furniture,1980,low,one,2,female_divorced_married,co-applicant,2,other,19,none,rent,2,skilled,1,no,yes,2
+medium,24,existing_paid,new_car,1355,low,one,3,female_divorced_married,none,4,other,25,none,own,1,unskilled,1,yes,yes,2
+no_acc,12,existing_paid,education,1393,low,seven+,4,male_single,none,4,agreement,47,bank,own,3,skilled,2,yes,yes,1
+no_acc,24,existing_paid,television,1376,silver,seven,4,female_divorced_married,none,1,other,28,none,own,1,skilled,1,no,yes,1
+no_acc,60,delay,television,15653,low,seven,2,male_single,none,4,other,21,none,own,2,skilled,1,yes,yes,1
+no_acc,12,existing_paid,television,1493,low,one,4,female_divorced_married,none,3,other,34,none,own,1,skilled,2,no,yes,1
+low,42,delay,television,4370,low,seven,3,male_single,none,2,agreement,26,bank,own,2,skilled,2,yes,yes,2
+low,18,existing_paid,education,750,low,unemployed,4,female_divorced_married,none,1,real_estate,27,none,own,1,unemployed,1,no,yes,2
+medium,15,existing_paid,repairs,1308,low,seven+,4,male_single,none,4,other,38,none,own,2,unskilled,1,no,yes,1
+no_acc,15,existing_paid,education,4623,medium,four,3,male_single,none,2,agreement,40,none,own,1,management,1,yes,yes,2
+no_acc,24,critical,television,1851,low,seven,4,male_married,guarantor,2,other,33,none,own,2,skilled,1,yes,yes,1
+low,18,critical,television,1880,low,seven,4,male_married,none,1,agreement,32,none,own,2,management,1,yes,yes,1
+no_acc,36,delay,business,7980,no_acc,one,4,male_single,none,4,other,27,none,rent,2,skilled,1,yes,yes,2
+low,30,no_credit,furniture,4583,low,four,2,male_divorced,guarantor,2,real_estate,32,none,own,2,skilled,1,no,yes,1
+no_acc,12,existing_paid,new_car,1386,silver,four,2,female_divorced_married,none,2,agreement,26,none,own,1,skilled,1,no,yes,2
+high,24,existing_paid,new_car,947,low,seven,4,male_single,none,3,no_property,38,bank,for free,1,skilled,2,no,yes,2
+low,12,existing_paid,education,684,low,four,4,male_single,none,4,other,40,none,rent,1,unskilled,2,no,yes,2
+low,48,existing_paid,education,7476,low,seven,4,male_single,none,1,no_property,50,none,for free,1,management,1,yes,yes,1
+medium,12,existing_paid,furniture,1922,low,four,4,male_single,none,2,agreement,37,none,own,1,unskilled,1,no,yes,2
+low,24,existing_paid,new_car,2303,low,seven+,4,male_single,co-applicant,1,real_estate,45,none,own,1,skilled,1,no,yes,2
+medium,36,delay,new_car,8086,medium,seven+,2,male_single,none,4,other,42,none,own,4,management,1,yes,yes,2
+no_acc,24,critical,old_car,2346,low,seven,4,male_single,none,3,other,35,none,own,2,skilled,1,yes,yes,1
+low,14,existing_paid,new_car,3973,low,unemployed,1,male_single,none,4,no_property,22,none,for free,1,skilled,1,no,yes,1
+medium,12,existing_paid,new_car,888,low,seven+,4,male_single,none,4,other,41,bank,own,1,unskilled,2,no,yes,2
+no_acc,48,existing_paid,television,10222,no_acc,seven,4,male_single,none,3,other,37,stores,own,1,skilled,1,yes,yes,1
+medium,30,no_credit,business,4221,low,four,2,female_divorced_married,none,1,other,28,none,own,2,skilled,1,no,yes,1
+medium,18,critical,furniture,6361,low,seven+,2,male_single,none,1,no_property,41,none,own,1,skilled,1,yes,yes,1
+high,12,existing_paid,television,1297,low,four,3,male_married,none,4,real_estate,23,none,rent,1,skilled,1,no,yes,1
+low,12,existing_paid,new_car,900,no_acc,four,4,male_married,none,2,other,23,none,own,1,skilled,1,no,yes,2
+no_acc,21,existing_paid,furniture,2241,low,seven+,4,male_single,none,2,real_estate,50,none,own,2,skilled,1,no,yes,1
+medium,6,delay,furniture,1050,low,unemployed,4,male_single,none,1,agreement,35,stores,own,2,management,1,yes,yes,1
+high,6,critical,education,1047,low,four,2,female_divorced_married,none,4,agreement,50,none,own,1,unskilled,1,no,yes,1
+no_acc,24,critical,others,6314,low,unemployed,4,male_single,co-applicant,2,no_property,27,bank,own,2,management,1,yes,yes,1
+medium,30,paid,furniture,3496,gold,four,4,male_single,none,2,other,34,stores,own,1,skilled,2,yes,yes,1
+no_acc,48,paid,business,3609,low,four,1,female_divorced_married,none,1,real_estate,27,stores,own,1,skilled,1,no,yes,1
+low,12,critical,new_car,4843,low,seven+,3,male_single,co-applicant,4,agreement,43,none,rent,2,skilled,1,yes,yes,2
+high,30,critical,television,3017,low,seven+,4,male_single,none,4,agreement,47,none,own,1,skilled,1,no,yes,1
+no_acc,24,critical,business,4139,medium,four,3,male_single,none,3,agreement,27,none,own,2,unskilled,1,yes,yes,1
+no_acc,36,existing_paid,business,5742,medium,seven,2,male_single,none,2,other,31,none,own,2,skilled,1,yes,yes,1
+no_acc,60,existing_paid,new_car,10366,low,seven+,2,male_single,none,4,agreement,42,none,own,1,management,1,yes,yes,1
+no_acc,6,critical,new_car,2080,silver,four,1,male_married,none,2,other,24,none,own,1,skilled,1,no,yes,1
+no_acc,21,delay,business,2580,silver,one,4,male_single,none,2,real_estate,41,bank,own,1,unskilled,2,no,yes,2
+no_acc,30,critical,television,4530,low,seven,4,female_divorced_married,none,4,other,26,none,rent,1,management,1,yes,yes,1
+no_acc,24,critical,furniture,5150,low,seven+,4,male_single,none,4,other,33,none,own,1,skilled,1,yes,yes,1
+medium,72,existing_paid,television,5595,medium,four,2,male_married,none,2,other,24,none,own,1,skilled,1,no,yes,2
+low,24,existing_paid,television,2384,low,seven+,4,male_single,none,4,real_estate,64,bank,rent,1,unskilled,1,no,yes,1
+no_acc,18,existing_paid,television,1453,low,one,3,female_divorced_married,none,1,real_estate,26,none,own,1,skilled,1,no,yes,1
+no_acc,6,existing_paid,education,1538,low,one,1,female_divorced_married,none,2,no_property,56,none,own,1,skilled,1,no,yes,1
+no_acc,12,existing_paid,television,2279,no_acc,four,4,male_single,none,4,no_property,37,none,for free,1,skilled,1,yes,yes,1
+no_acc,15,delay,television,1478,low,four,4,male_married,none,3,real_estate,33,bank,own,2,skilled,1,no,yes,1
+no_acc,24,critical,television,5103,low,one,3,male_married,none,3,no_property,47,none,for free,3,skilled,1,yes,yes,1
+medium,36,delay,business,9857,medium,seven,1,male_single,none,3,agreement,31,none,own,2,unskilled,2,yes,yes,1
+no_acc,60,existing_paid,new_car,6527,no_acc,four,4,male_single,none,4,no_property,34,none,for free,1,skilled,2,yes,yes,1
+high,10,critical,television,1347,no_acc,seven,4,male_single,none,2,agreement,27,none,own,2,skilled,1,yes,yes,1
+medium,36,delay,new_car,2862,medium,seven+,4,male_single,none,3,no_property,30,none,for free,1,skilled,1,no,yes,1
+no_acc,9,existing_paid,television,2753,medium,seven+,3,male_single,co-applicant,4,other,35,none,own,1,skilled,1,yes,yes,1
+low,12,existing_paid,new_car,3651,gold,four,1,male_single,none,3,agreement,31,none,own,1,skilled,2,no,yes,1
+low,15,critical,furniture,975,low,four,2,male_divorced,none,3,agreement,25,none,own,2,skilled,1,no,yes,1
+medium,15,existing_paid,repairs,2631,medium,four,3,female_divorced_married,none,2,real_estate,25,none,own,1,unskilled,1,no,yes,1
+medium,24,existing_paid,television,2896,medium,one,2,male_single,none,1,other,29,none,own,1,skilled,1,no,yes,1
+low,6,critical,new_car,4716,no_acc,one,1,male_single,none,3,real_estate,44,none,own,2,unskilled,2,no,yes,1
+no_acc,24,existing_paid,television,2284,low,seven,4,male_single,none,2,other,28,none,own,1,skilled,1,yes,yes,1
+no_acc,6,existing_paid,old_car,1236,silver,four,2,male_single,none,4,agreement,50,none,rent,1,skilled,1,no,yes,1
+medium,12,existing_paid,television,1103,low,seven,4,male_single,guarantor,3,real_estate,29,none,own,2,skilled,1,no,no,1
+no_acc,12,critical,new_car,926,low,unemployed,1,female_divorced_married,none,2,agreement,38,none,own,1,unemployed,1,no,yes,1
+no_acc,18,critical,television,1800,low,four,4,male_single,none,2,other,24,none,own,2,skilled,1,no,yes,1
+high,15,existing_paid,education,1905,low,seven+,4,male_single,none,4,other,40,none,rent,1,management,1,yes,yes,1
+no_acc,12,existing_paid,furniture,1123,silver,four,4,female_divorced_married,none,4,other,29,none,rent,1,unskilled,1,no,yes,2
+low,48,critical,old_car,6331,low,seven+,4,male_single,none,4,no_property,46,none,for free,2,skilled,1,yes,yes,2
+high,24,existing_paid,television,1377,medium,seven+,4,female_divorced_married,none,2,no_property,47,none,for free,1,skilled,1,yes,yes,1
+medium,30,delay,business,2503,medium,seven+,4,male_single,none,2,agreement,41,stores,own,2,skilled,1,no,yes,1
+medium,27,existing_paid,business,2528,low,one,4,female_divorced_married,none,1,agreement,32,none,own,1,skilled,2,yes,yes,1
+no_acc,15,existing_paid,new_car,5324,silver,seven+,1,female_divorced_married,none,4,no_property,35,none,for free,1,skilled,1,no,yes,1
+medium,48,existing_paid,new_car,6560,medium,seven,3,male_single,none,2,agreement,24,none,own,1,skilled,1,no,yes,2
+medium,12,no_credit,furniture,2969,low,one,4,female_divorced_married,none,3,agreement,25,none,rent,2,skilled,1,no,yes,2
+medium,9,existing_paid,television,1206,low,seven+,4,female_divorced_married,none,4,real_estate,25,none,own,1,skilled,1,no,yes,1
+medium,9,existing_paid,television,2118,low,four,2,male_single,none,2,real_estate,37,none,own,1,unskilled,2,no,yes,1
+no_acc,18,critical,television,629,silver,seven+,4,male_single,none,3,agreement,32,bank,own,2,management,1,yes,yes,1
+low,6,paid,education,1198,low,seven+,4,female_divorced_married,none,4,no_property,35,none,for free,1,skilled,1,no,yes,2
+no_acc,21,existing_paid,old_car,2476,no_acc,seven+,4,male_single,none,4,real_estate,46,none,own,1,management,1,yes,yes,1
+low,9,critical,television,1138,low,four,4,male_single,none,4,real_estate,25,none,own,2,unskilled,1,no,yes,1
+medium,60,existing_paid,new_car,14027,low,seven,4,male_single,none,2,no_property,27,none,own,1,management,1,yes,yes,2
+no_acc,30,critical,old_car,7596,no_acc,seven+,1,male_single,none,4,other,63,none,own,2,skilled,1,no,yes,1
+no_acc,30,critical,television,3077,no_acc,seven+,3,male_single,none,2,other,40,none,own,2,skilled,2,yes,yes,1
+no_acc,18,existing_paid,television,1505,low,four,4,male_single,none,2,no_property,32,none,for free,1,management,1,yes,yes,1
+high,24,critical,television,3148,no_acc,four,3,male_single,none,2,other,31,none,own,2,skilled,1,yes,yes,1
+medium,20,no_credit,old_car,6148,medium,seven+,3,male_married,none,4,other,31,bank,own,2,skilled,1,yes,yes,1
+high,9,no_credit,television,1337,low,one,4,male_single,none,2,other,34,none,own,2,management,1,yes,yes,2
+medium,6,paid,education,433,gold,one,4,female_divorced_married,none,2,agreement,24,bank,rent,1,skilled,2,no,yes,2
+low,12,existing_paid,new_car,1228,low,four,4,female_divorced_married,none,2,real_estate,24,none,own,1,unskilled,1,no,yes,2
+medium,9,existing_paid,television,790,silver,four,4,female_divorced_married,none,3,real_estate,66,none,own,1,unskilled,1,no,yes,1
+no_acc,27,existing_paid,new_car,2570,low,four,3,female_divorced_married,none,3,real_estate,21,none,rent,1,skilled,1,no,yes,2
+no_acc,6,critical,new_car,250,gold,four,2,female_divorced_married,none,2,real_estate,41,bank,own,2,unskilled,1,no,yes,1
+no_acc,15,critical,television,1316,silver,four,2,male_married,none,2,agreement,47,none,own,2,unskilled,1,no,yes,1
+low,18,existing_paid,television,1882,low,four,4,female_divorced_married,none,4,other,25,bank,rent,2,skilled,1,no,yes,2
+medium,48,paid,business,6416,low,seven+,4,female_divorced_married,none,3,no_property,59,none,rent,1,skilled,1,no,yes,2
+high,24,critical,business,1275,gold,four,2,male_divorced,none,4,real_estate,36,none,own,2,skilled,1,yes,yes,1
+medium,24,delay,television,6403,low,one,1,male_single,none,2,other,33,none,own,1,skilled,1,no,yes,1
+low,24,existing_paid,television,1987,low,four,2,male_single,none,4,real_estate,21,none,rent,1,unskilled,2,no,yes,2
+medium,8,existing_paid,television,760,low,seven,4,female_divorced_married,guarantor,2,real_estate,44,none,own,1,unskilled,1,no,yes,1
+no_acc,24,existing_paid,old_car,2603,gold,four,2,female_divorced_married,none,4,other,28,none,rent,1,skilled,1,yes,yes,1
+no_acc,4,critical,new_car,3380,low,seven,1,female_divorced_married,none,1,real_estate,37,none,own,1,skilled,2,no,yes,1
+medium,36,paid,domestic,3990,no_acc,one,3,female_divorced_married,none,2,no_property,29,bank,own,1,unemployed,1,no,yes,1
+medium,24,existing_paid,old_car,11560,low,four,1,female_divorced_married,none,4,other,23,none,rent,2,management,1,no,yes,2
+low,18,existing_paid,new_car,4380,medium,four,3,male_single,none,4,other,35,none,own,1,unskilled,2,yes,yes,1
+no_acc,6,critical,new_car,6761,low,seven,1,male_single,none,3,no_property,45,none,own,2,management,2,yes,yes,1
+medium,30,no_credit,business,4280,medium,four,4,female_divorced_married,none,4,other,26,none,rent,2,unskilled,1,no,yes,2
+low,24,paid,new_car,2325,medium,seven,2,male_single,none,3,other,32,bank,own,1,skilled,1,no,yes,1
+medium,10,paid,television,1048,low,four,4,male_single,none,4,real_estate,23,stores,own,1,unskilled,1,no,yes,1
+no_acc,21,existing_paid,television,3160,no_acc,seven+,4,male_single,none,3,agreement,41,none,own,1,skilled,1,yes,yes,1
+low,24,paid,furniture,2483,silver,four,4,male_single,none,4,real_estate,22,stores,own,1,skilled,1,yes,yes,1
+low,39,critical,furniture,14179,no_acc,seven,4,male_single,none,4,agreement,30,none,own,2,management,1,yes,yes,1
+low,13,critical,business,1797,low,one,3,male_single,none,1,agreement,28,bank,own,2,unskilled,1,no,yes,1
+low,15,existing_paid,new_car,2511,low,unemployed,1,female_divorced_married,none,4,other,23,none,rent,1,skilled,1,no,yes,1
+low,12,existing_paid,new_car,1274,low,one,3,female_divorced_married,none,1,real_estate,37,none,own,1,unskilled,1,no,yes,2
+no_acc,21,existing_paid,old_car,5248,no_acc,four,1,male_single,none,3,other,26,none,own,1,skilled,1,no,yes,1
+no_acc,15,existing_paid,old_car,3029,low,seven,2,male_single,none,2,other,33,none,own,1,skilled,1,no,yes,1
+low,6,existing_paid,furniture,428,low,seven+,2,female_divorced_married,none,1,agreement,49,bank,own,1,skilled,1,yes,yes,1
+low,18,existing_paid,new_car,976,low,one,1,female_divorced_married,none,2,other,23,none,own,1,unskilled,1,no,yes,2
+medium,12,existing_paid,business,841,medium,seven,2,female_divorced_married,none,4,real_estate,23,none,rent,1,unskilled,1,no,yes,1
+no_acc,30,critical,television,5771,low,seven,4,female_divorced_married,none,2,other,25,none,own,2,skilled,1,no,yes,1
+no_acc,12,delay,repairs,1555,gold,seven+,4,male_single,none,4,no_property,55,none,for free,2,skilled,2,no,yes,2
+low,24,existing_paid,new_car,1285,no_acc,seven,4,female_divorced_married,none,4,no_property,32,none,rent,1,skilled,1,no,yes,2
+high,6,critical,new_car,1299,low,four,1,male_single,none,1,real_estate,74,none,own,3,unemployed,2,no,no,1
+high,15,critical,television,1271,no_acc,four,3,male_single,none,4,no_property,39,none,for free,2,skilled,1,yes,yes,2
+no_acc,24,existing_paid,new_car,1393,low,four,2,male_single,guarantor,2,real_estate,31,none,own,1,skilled,1,yes,yes,1
+low,12,critical,new_car,691,low,seven+,4,male_single,none,3,agreement,35,none,own,2,skilled,1,no,yes,2
+no_acc,15,critical,new_car,5045,no_acc,seven+,1,female_divorced_married,none,4,other,59,none,own,1,skilled,1,yes,yes,1
+low,18,critical,furniture,2124,low,four,4,female_divorced_married,none,4,real_estate,24,none,rent,2,skilled,1,no,yes,2
+low,12,existing_paid,television,2214,low,four,4,male_single,none,3,agreement,24,none,own,1,unskilled,1,no,yes,1
+no_acc,21,critical,new_car,12680,no_acc,seven+,4,male_single,none,4,no_property,30,none,for free,1,management,1,yes,yes,2
+no_acc,24,critical,new_car,2463,medium,seven,4,male_married,none,3,agreement,27,none,own,2,skilled,1,yes,yes,1
+medium,12,existing_paid,television,1155,low,seven+,3,male_married,guarantor,3,real_estate,40,bank,own,2,unskilled,1,no,yes,1
+low,30,existing_paid,furniture,3108,low,one,2,male_divorced,none,4,agreement,31,none,own,1,unskilled,1,no,yes,2
+no_acc,10,existing_paid,old_car,2901,no_acc,one,1,female_divorced_married,none,4,real_estate,31,none,rent,1,skilled,1,no,yes,1
+medium,12,critical,furniture,3617,low,seven+,1,male_single,none,4,other,28,none,rent,3,skilled,1,yes,yes,1
+no_acc,12,critical,television,1655,low,seven+,2,male_single,none,4,real_estate,63,none,own,2,unskilled,1,yes,yes,1
+low,24,existing_paid,old_car,2812,no_acc,seven+,2,female_divorced_married,none,4,real_estate,26,none,rent,1,skilled,1,no,yes,1
+low,36,critical,education,8065,low,four,3,female_divorced_married,none,2,no_property,25,none,own,2,management,1,yes,yes,2
+no_acc,21,critical,old_car,3275,low,seven+,1,male_single,none,4,other,36,none,own,1,management,1,yes,yes,1
+no_acc,24,critical,television,2223,medium,seven+,4,male_single,none,4,agreement,52,bank,own,2,skilled,1,no,yes,1
+high,12,critical,new_car,1480,silver,unemployed,2,male_single,none,4,no_property,66,bank,for free,3,unemployed,1,no,yes,1
+low,24,existing_paid,new_car,1371,no_acc,four,4,female_divorced_married,none,4,real_estate,25,none,rent,1,skilled,1,no,yes,2
+no_acc,36,critical,new_car,3535,low,seven,4,male_single,none,4,other,37,none,own,2,skilled,1,yes,yes,1
+low,18,existing_paid,television,3509,low,seven,4,female_divorced_married,guarantor,1,real_estate,25,none,own,1,skilled,1,no,yes,1
+no_acc,36,critical,old_car,5711,gold,seven+,4,male_single,none,2,other,38,none,own,2,management,1,yes,yes,1
+medium,18,existing_paid,repairs,3872,low,unemployed,2,female_divorced_married,none,4,other,67,none,own,1,skilled,1,yes,yes,1
+medium,39,critical,television,4933,low,seven,2,male_single,guarantor,2,real_estate,25,none,own,2,skilled,1,no,yes,2
+no_acc,24,critical,new_car,1940,gold,seven+,4,male_single,none,4,real_estate,60,none,own,1,skilled,1,yes,yes,1
+medium,12,no_credit,retraining,1410,low,four,2,male_single,none,2,real_estate,31,none,own,1,unskilled,1,yes,yes,1
+medium,12,existing_paid,new_car,836,medium,one,4,female_divorced_married,none,2,agreement,23,bank,own,1,unskilled,1,no,yes,2
+medium,20,existing_paid,old_car,6468,no_acc,unemployed,1,male_divorced,none,4,real_estate,60,none,own,1,management,1,yes,yes,1
+medium,18,existing_paid,business,1941,gold,four,4,male_single,none,2,agreement,35,none,own,1,unskilled,1,yes,yes,1
+no_acc,22,existing_paid,television,2675,silver,seven+,3,male_single,none,4,other,40,none,own,1,skilled,1,no,yes,1
+no_acc,48,critical,old_car,2751,no_acc,seven+,4,male_single,none,3,other,38,none,own,2,skilled,2,yes,yes,1
+medium,48,delay,education,6224,low,seven+,4,male_single,none,4,no_property,50,none,for free,1,skilled,1,no,yes,2
+low,40,critical,education,5998,low,four,4,male_single,none,3,no_property,27,bank,own,1,skilled,1,yes,yes,2
+medium,21,existing_paid,business,1188,low,seven+,2,female_divorced_married,none,4,agreement,39,none,own,1,skilled,2,no,yes,2
+no_acc,24,existing_paid,old_car,6313,no_acc,seven+,3,male_single,none,4,other,41,none,own,1,management,2,yes,yes,1
+no_acc,6,critical,furniture,1221,no_acc,four,1,male_married,none,2,agreement,27,none,own,2,skilled,1,no,yes,1
+high,24,existing_paid,furniture,2892,low,seven+,3,male_divorced,none,4,no_property,51,none,for free,1,skilled,1,no,yes,1
+no_acc,24,existing_paid,furniture,3062,silver,seven+,4,male_single,none,3,no_property,32,none,rent,1,skilled,1,yes,yes,1
+no_acc,9,existing_paid,furniture,2301,medium,one,2,female_divorced_married,none,4,agreement,22,none,rent,1,skilled,1,no,yes,1
+low,18,existing_paid,old_car,7511,no_acc,seven+,1,male_single,none,4,agreement,51,none,for free,1,skilled,2,yes,yes,2
+no_acc,12,critical,furniture,1258,low,one,2,female_divorced_married,none,4,agreement,22,none,rent,2,unskilled,1,no,yes,1
+no_acc,24,delay,new_car,717,no_acc,seven+,4,male_married,none,4,other,54,none,own,2,skilled,1,yes,yes,1
+medium,9,existing_paid,new_car,1549,no_acc,one,4,male_single,none,2,real_estate,35,none,own,1,unemployed,1,no,yes,1
+no_acc,24,critical,education,1597,low,seven+,4,male_single,none,4,no_property,54,none,for free,2,skilled,2,no,yes,1
+medium,18,critical,television,1795,low,seven+,3,female_divorced_married,guarantor,4,real_estate,48,bank,rent,2,unskilled,1,yes,yes,1
+low,20,critical,furniture,4272,low,seven+,1,female_divorced_married,none,4,agreement,24,none,own,2,skilled,1,no,yes,1
+no_acc,12,critical,television,976,no_acc,seven+,4,male_single,none,4,other,35,none,own,2,skilled,1,no,yes,1
+medium,12,existing_paid,new_car,7472,no_acc,unemployed,1,female_divorced_married,none,2,real_estate,24,none,rent,1,unemployed,1,no,yes,1
+low,36,existing_paid,new_car,9271,low,seven,2,male_single,none,1,other,24,none,own,1,skilled,1,yes,yes,2
+medium,6,existing_paid,television,590,low,one,3,male_married,none,3,real_estate,26,none,own,1,unskilled,1,no,no,1
+no_acc,12,critical,television,930,no_acc,seven+,4,male_single,none,4,real_estate,65,none,own,4,skilled,1,no,yes,1
+medium,42,paid,old_car,9283,low,unemployed,1,male_single,none,2,no_property,55,bank,for free,1,management,1,yes,yes,1
+medium,15,no_credit,new_car,1778,low,one,2,female_divorced_married,none,1,real_estate,26,none,rent,2,unemployed,1,no,yes,2
+medium,8,existing_paid,business,907,low,one,3,male_married,none,2,real_estate,26,none,own,1,skilled,1,yes,yes,1
+medium,6,existing_paid,television,484,low,seven,3,male_married,guarantor,3,real_estate,28,bank,own,1,unskilled,1,no,yes,1
+low,36,critical,old_car,9629,low,seven,4,male_single,none,4,other,24,none,own,2,skilled,1,yes,yes,2
+low,48,existing_paid,domestic,3051,low,four,3,male_single,none,4,other,54,none,own,1,skilled,1,no,yes,2
+low,48,existing_paid,new_car,3931,low,seven,4,male_single,none,4,no_property,46,none,for free,1,skilled,2,no,yes,2
+medium,36,delay,new_car,7432,low,four,2,female_divorced_married,none,2,agreement,54,none,rent,1,skilled,1,no,yes,1
+no_acc,6,existing_paid,domestic,1338,silver,four,1,male_divorced,none,4,real_estate,62,none,own,1,skilled,1,no,yes,1
+no_acc,6,critical,television,1554,low,seven,1,female_divorced_married,none,2,other,24,none,rent,2,skilled,1,yes,yes,1
+low,36,existing_paid,others,15857,low,unemployed,2,male_divorced,co-applicant,3,other,43,none,own,1,management,1,no,yes,1
+low,18,existing_paid,television,1345,low,four,4,male_married,none,3,real_estate,26,bank,own,1,skilled,1,no,yes,2
+no_acc,12,existing_paid,new_car,1101,low,four,3,male_married,none,2,real_estate,27,none,own,2,skilled,1,yes,yes,1
+high,12,existing_paid,television,3016,low,four,3,male_married,none,1,other,24,none,own,1,skilled,1,no,yes,1
+low,36,existing_paid,furniture,2712,low,seven+,2,male_single,none,2,agreement,41,bank,own,1,skilled,2,no,yes,2
+low,8,critical,new_car,731,low,seven+,4,male_single,none,4,real_estate,47,none,own,2,unskilled,1,no,yes,1
+no_acc,18,critical,furniture,3780,low,one,3,male_divorced,none,2,other,35,none,own,2,management,1,yes,yes,1
+low,21,critical,new_car,1602,low,seven+,4,male_married,none,3,other,30,none,own,2,skilled,1,yes,yes,1
+low,18,critical,new_car,3966,low,seven+,1,female_divorced_married,none,4,real_estate,33,bank,rent,3,skilled,1,yes,yes,2
+no_acc,18,no_credit,business,4165,low,four,2,male_single,none,2,other,36,stores,own,2,skilled,2,no,yes,2
+low,36,existing_paid,old_car,8335,no_acc,seven+,3,male_single,none,4,no_property,47,none,for free,1,skilled,1,no,yes,2
+medium,48,delay,business,6681,no_acc,four,4,male_single,none,4,no_property,38,none,for free,1,skilled,2,yes,yes,1
+no_acc,24,delay,business,2375,silver,four,4,male_single,none,2,other,44,none,own,2,skilled,2,yes,yes,1
+low,18,existing_paid,new_car,1216,low,one,4,female_divorced_married,none,3,other,23,none,rent,1,skilled,1,yes,yes,2
+low,45,no_credit,business,11816,low,seven+,2,male_single,none,4,other,29,none,rent,2,skilled,1,no,yes,2
+medium,24,existing_paid,television,5084,no_acc,seven+,2,female_divorced_married,none,4,other,42,none,own,1,skilled,1,yes,yes,1
+high,15,existing_paid,television,2327,low,one,2,female_divorced_married,none,3,real_estate,25,none,own,1,unskilled,1,no,yes,2
+low,12,no_credit,new_car,1082,low,four,4,male_single,none,4,other,48,bank,own,2,skilled,1,no,yes,2
+no_acc,12,existing_paid,television,886,no_acc,four,4,female_divorced_married,none,2,other,21,none,own,1,skilled,1,no,yes,1
+no_acc,4,existing_paid,furniture,601,low,one,1,female_divorced_married,none,3,real_estate,23,none,rent,1,unskilled,2,no,yes,1
+low,24,critical,old_car,2957,low,seven+,4,male_single,none,4,agreement,63,none,own,2,skilled,1,yes,yes,1
+no_acc,24,critical,television,2611,low,seven+,4,male_married,co-applicant,3,real_estate,46,none,own,2,skilled,1,no,yes,1
+low,36,existing_paid,furniture,5179,low,seven,4,male_single,none,2,agreement,29,none,own,1,skilled,1,no,yes,2
+no_acc,21,delay,old_car,2993,low,four,3,male_single,none,2,real_estate,28,stores,own,2,unskilled,1,no,yes,1
+no_acc,18,existing_paid,repairs,1943,low,one,4,female_divorced_married,none,4,real_estate,23,none,own,1,skilled,1,no,yes,2
+no_acc,24,paid,business,1559,low,seven,4,male_single,none,4,other,50,bank,own,1,skilled,1,yes,yes,1
+no_acc,18,existing_paid,furniture,3422,low,seven+,4,male_single,none,4,agreement,47,bank,own,3,skilled,2,yes,yes,1
+medium,21,existing_paid,furniture,3976,no_acc,seven,2,male_single,none,3,other,35,none,own,1,skilled,1,yes,yes,1
+no_acc,18,existing_paid,new_car,6761,no_acc,four,2,male_single,none,4,other,68,none,rent,2,skilled,1,no,yes,2
+no_acc,24,existing_paid,new_car,1249,low,one,4,male_married,none,2,real_estate,28,none,own,1,skilled,1,no,yes,1
+low,9,existing_paid,television,1364,low,seven,3,male_single,none,4,real_estate,59,none,own,1,skilled,1,no,yes,1
+low,12,existing_paid,television,709,low,seven+,4,male_single,none,4,real_estate,57,stores,own,1,unskilled,1,no,yes,2
+low,20,critical,new_car,2235,low,four,4,male_married,guarantor,2,agreement,33,bank,rent,2,skilled,1,no,no,2
+no_acc,24,critical,old_car,4042,no_acc,seven,3,male_single,none,4,agreement,43,none,own,2,skilled,1,yes,yes,1
+no_acc,15,critical,television,1471,low,four,4,male_single,none,4,no_property,35,none,for free,2,skilled,1,yes,yes,1
+low,18,paid,new_car,1442,low,seven,4,male_single,none,4,no_property,32,none,for free,2,unskilled,2,no,yes,2
+no_acc,36,delay,new_car,10875,low,seven+,2,male_single,none,2,other,45,none,own,2,skilled,2,yes,yes,1
+no_acc,24,existing_paid,new_car,1474,medium,one,4,male_married,none,3,real_estate,33,none,own,1,skilled,1,yes,yes,1
+no_acc,10,existing_paid,retraining,894,no_acc,seven,4,female_divorced_married,none,3,agreement,40,none,own,1,skilled,1,yes,yes,1
+no_acc,15,critical,furniture,3343,low,four,4,male_single,none,2,no_property,28,none,for free,1,skilled,1,yes,yes,1
+low,15,existing_paid,new_car,3959,low,four,3,female_divorced_married,none,2,agreement,29,none,own,1,skilled,1,yes,yes,2
+no_acc,9,existing_paid,new_car,3577,medium,four,1,male_single,guarantor,2,real_estate,26,none,rent,1,skilled,2,no,no,1
+no_acc,24,critical,old_car,5804,gold,four,4,male_single,none,2,real_estate,27,none,own,2,skilled,1,no,yes,1
+no_acc,18,delay,business,2169,low,four,4,male_married,none,2,other,28,none,own,1,skilled,1,yes,yes,2
+low,24,existing_paid,television,2439,low,one,4,female_divorced_married,none,4,real_estate,35,none,own,1,skilled,1,yes,yes,2
+no_acc,27,critical,furniture,4526,gold,one,4,male_single,none,2,real_estate,32,stores,own,2,unskilled,2,yes,yes,1
+no_acc,10,existing_paid,furniture,2210,low,four,2,male_single,none,2,real_estate,25,bank,rent,1,unskilled,1,no,yes,2
+no_acc,15,existing_paid,furniture,2221,silver,four,2,female_divorced_married,none,4,other,20,none,rent,1,skilled,1,no,yes,1
+low,18,existing_paid,television,2389,low,one,4,female_divorced_married,none,1,other,27,stores,own,1,skilled,1,no,yes,1
+no_acc,12,critical,furniture,3331,low,seven+,2,male_single,none,4,agreement,42,stores,own,1,skilled,1,no,yes,1
+no_acc,36,existing_paid,business,7409,no_acc,seven+,3,male_single,none,2,agreement,37,none,own,2,skilled,1,no,yes,1
+low,12,existing_paid,furniture,652,low,seven+,4,female_divorced_married,none,4,agreement,24,none,rent,1,skilled,1,no,yes,1
+no_acc,36,delay,furniture,7678,silver,seven,2,female_divorced_married,none,4,other,40,none,own,2,skilled,1,yes,yes,1
+high,6,critical,new_car,1343,low,seven+,1,male_single,none,4,real_estate,46,none,own,2,skilled,2,no,no,1
+low,24,critical,business,1382,medium,seven,4,male_single,none,1,real_estate,26,none,own,2,skilled,1,yes,yes,1
+no_acc,15,existing_paid,domestic,874,no_acc,one,4,female_divorced_married,none,1,real_estate,24,none,own,1,skilled,1,no,yes,1
+low,12,existing_paid,furniture,3590,low,four,2,male_single,co-applicant,2,agreement,29,none,own,1,unskilled,2,no,yes,1
+medium,11,critical,new_car,1322,gold,four,4,female_divorced_married,none,4,other,40,none,own,2,skilled,1,no,yes,1
+low,18,paid,television,1940,low,one,3,male_single,co-applicant,4,no_property,36,bank,for free,1,management,1,yes,yes,1
+no_acc,36,existing_paid,television,3595,low,seven+,4,male_single,none,2,other,28,none,own,1,skilled,1,no,yes,1
+low,9,existing_paid,new_car,1422,low,one,3,male_single,none,2,no_property,27,none,for free,1,management,1,yes,yes,2
+no_acc,30,critical,television,6742,no_acc,seven,2,male_single,none,3,agreement,36,none,own,2,skilled,1,no,yes,1
+no_acc,24,existing_paid,old_car,7814,low,seven,3,male_single,none,3,other,38,none,own,1,management,1,yes,yes,1
+no_acc,24,existing_paid,old_car,9277,no_acc,four,2,male_divorced,none,4,no_property,48,none,for free,1,skilled,1,yes,yes,1
+medium,30,critical,new_car,2181,no_acc,seven+,4,male_single,none,4,real_estate,36,none,own,2,skilled,1,no,yes,1
+no_acc,18,critical,television,1098,low,unemployed,4,female_divorced_married,none,4,other,65,none,own,2,unemployed,1,no,yes,1
+medium,24,existing_paid,furniture,4057,low,seven,3,male_divorced,none,3,other,43,none,own,1,skilled,1,yes,yes,2
+low,12,existing_paid,education,795,low,one,4,female_divorced_married,none,4,agreement,53,none,own,1,skilled,1,no,yes,2
+medium,24,critical,business,2825,no_acc,seven,4,male_single,none,3,no_property,34,none,own,2,skilled,2,yes,yes,1
+medium,48,existing_paid,business,15672,low,four,2,male_single,none,2,other,23,none,own,1,skilled,1,yes,yes,2
+no_acc,36,critical,new_car,6614,low,seven+,4,male_single,none,4,other,34,none,own,2,management,1,yes,yes,1
+no_acc,28,paid,old_car,7824,no_acc,one,3,male_single,guarantor,4,real_estate,40,bank,rent,2,skilled,2,yes,yes,1
+low,27,critical,business,2442,low,seven+,4,male_single,none,4,other,43,stores,own,4,management,2,yes,yes,1
+no_acc,15,critical,television,1829,low,seven+,4,male_single,none,4,other,46,none,own,2,skilled,1,yes,yes,1
+low,12,critical,new_car,2171,low,four,4,male_single,none,4,agreement,38,bank,own,2,unskilled,1,no,no,1
+medium,36,critical,old_car,5800,low,four,3,male_single,none,4,other,34,none,own,2,skilled,1,yes,yes,1
+no_acc,18,critical,television,1169,no_acc,four,4,male_single,none,3,agreement,29,none,own,2,skilled,1,yes,yes,1
+no_acc,36,delay,old_car,8947,no_acc,seven,3,male_single,none,2,other,31,stores,own,1,management,2,yes,yes,1
+low,21,existing_paid,television,2606,low,one,4,female_divorced_married,none,4,agreement,28,none,rent,1,management,1,yes,yes,1
+no_acc,12,critical,furniture,1592,gold,seven,3,female_divorced_married,none,2,agreement,35,none,own,1,skilled,1,no,no,1
+no_acc,15,existing_paid,furniture,2186,no_acc,seven,1,female_divorced_married,none,4,real_estate,33,bank,rent,1,unskilled,1,no,yes,1
+low,18,existing_paid,furniture,4153,low,four,2,male_single,co-applicant,3,other,42,none,own,1,skilled,1,no,yes,2
+low,16,critical,new_car,2625,low,seven+,2,male_single,guarantor,4,agreement,43,bank,rent,1,skilled,1,yes,yes,2
+no_acc,20,critical,new_car,3485,no_acc,one,2,male_divorced,none,4,real_estate,44,none,own,2,skilled,1,yes,yes,1
+no_acc,36,critical,old_car,10477,no_acc,seven+,2,male_single,none,4,no_property,42,none,for free,2,skilled,1,no,yes,1
+no_acc,15,existing_paid,television,1386,no_acc,four,4,male_married,none,2,real_estate,40,none,rent,1,skilled,1,yes,yes,1
+no_acc,24,existing_paid,television,1278,low,seven+,4,male_single,none,1,real_estate,36,none,own,1,management,1,yes,yes,1
+low,12,existing_paid,television,1107,low,four,2,male_single,none,2,real_estate,20,none,rent,1,management,2,yes,yes,1
+low,21,existing_paid,new_car,3763,no_acc,seven,2,male_single,co-applicant,2,real_estate,24,none,own,1,unskilled,1,no,no,1
+medium,36,existing_paid,education,3711,no_acc,four,2,male_married,none,2,other,27,none,own,1,skilled,1,no,yes,1
+no_acc,15,delay,old_car,3594,low,one,1,female_divorced_married,none,2,agreement,46,none,own,2,unskilled,1,no,yes,1
+medium,9,existing_paid,new_car,3195,no_acc,four,1,female_divorced_married,none,2,real_estate,33,none,own,1,unskilled,1,no,yes,1
+no_acc,36,delay,television,4454,low,four,4,female_divorced_married,none,4,real_estate,34,none,own,2,skilled,1,no,yes,1
+medium,24,critical,furniture,4736,low,one,2,female_divorced_married,none,4,other,25,bank,own,1,unskilled,1,no,yes,2
+medium,30,existing_paid,television,2991,no_acc,seven+,2,female_divorced_married,none,4,other,25,none,own,1,skilled,1,no,yes,1
+no_acc,11,existing_paid,business,2142,gold,seven+,1,male_divorced,none,2,real_estate,28,none,own,1,skilled,1,yes,yes,1
+low,24,paid,business,3161,low,four,4,male_single,none,2,agreement,31,none,rent,1,skilled,1,yes,yes,2
+medium,48,no_credit,others,18424,low,four,1,female_divorced_married,none,2,agreement,32,bank,own,1,management,1,yes,no,2
+no_acc,10,existing_paid,old_car,2848,medium,four,1,male_single,co-applicant,2,real_estate,32,none,own,1,skilled,2,no,yes,1
+low,6,existing_paid,new_car,14896,low,seven+,1,male_single,none,4,no_property,68,bank,own,1,management,1,yes,yes,2
+low,24,existing_paid,furniture,2359,medium,unemployed,1,male_divorced,none,1,agreement,33,none,own,1,skilled,1,no,yes,2
+low,24,existing_paid,furniture,3345,low,seven+,4,male_single,none,2,agreement,39,none,rent,1,management,1,yes,yes,2
+no_acc,18,critical,furniture,1817,low,four,4,female_divorced_married,none,2,no_property,28,none,own,2,skilled,1,no,yes,1
+no_acc,48,delay,television,12749,silver,seven,4,male_single,none,1,other,37,none,own,1,management,1,yes,yes,1
+low,9,existing_paid,television,1366,low,one,3,female_divorced_married,none,4,agreement,22,none,rent,1,skilled,1,no,yes,2
+medium,12,existing_paid,new_car,2002,low,seven,3,male_single,none,4,agreement,30,none,rent,1,skilled,2,yes,yes,1
+low,24,paid,furniture,6872,low,one,2,male_divorced,none,1,agreement,55,bank,own,1,skilled,1,yes,yes,2
+low,12,paid,new_car,697,low,one,4,male_single,none,2,other,46,bank,own,2,skilled,1,yes,yes,2
+low,18,critical,furniture,1049,low,one,4,female_divorced_married,none,4,agreement,21,none,rent,1,skilled,1,no,yes,1
+low,48,existing_paid,old_car,10297,low,seven,4,male_single,none,4,no_property,39,stores,for free,3,skilled,2,yes,yes,2
+no_acc,30,existing_paid,television,1867,no_acc,seven+,4,male_single,none,4,other,58,none,own,1,skilled,1,yes,yes,1
+low,12,delay,new_car,1344,low,four,4,male_single,none,2,real_estate,43,none,own,2,unskilled,2,no,yes,1
+low,24,existing_paid,furniture,1747,low,one,4,male_single,co-applicant,1,agreement,24,none,own,1,unskilled,1,no,no,1
+medium,9,existing_paid,television,1670,low,one,4,female_divorced_married,none,2,other,22,none,own,1,skilled,1,yes,yes,2
+no_acc,9,critical,new_car,1224,low,four,3,male_single,none,1,real_estate,30,none,own,2,skilled,1,no,yes,1
+no_acc,12,critical,television,522,silver,seven+,4,male_single,none,4,agreement,42,none,own,2,skilled,2,yes,yes,1
+low,12,existing_paid,television,1498,low,four,4,female_divorced_married,none,1,other,23,bank,own,1,skilled,1,no,yes,1
+medium,30,delay,television,1919,medium,one,4,male_single,none,3,no_property,30,stores,own,2,management,1,no,yes,2
+high,9,existing_paid,television,745,low,four,3,female_divorced_married,none,2,real_estate,28,none,own,1,unskilled,1,no,yes,2
+medium,6,existing_paid,television,2063,low,one,4,male_married,none,3,other,30,none,rent,1,management,1,yes,yes,1
+medium,60,existing_paid,education,6288,low,four,4,male_single,none,4,no_property,42,none,for free,1,skilled,1,no,yes,2
+no_acc,24,critical,old_car,6842,no_acc,four,2,male_single,none,4,agreement,46,none,own,2,management,2,yes,yes,1
+no_acc,12,existing_paid,new_car,3527,no_acc,one,2,male_single,none,3,agreement,45,none,own,1,management,2,yes,yes,1
+no_acc,10,existing_paid,new_car,1546,low,four,3,male_single,none,2,real_estate,31,none,own,1,unskilled,2,no,no,1
+no_acc,24,existing_paid,furniture,929,no_acc,seven,4,male_single,none,2,other,31,stores,own,1,skilled,1,yes,yes,1
+no_acc,4,critical,new_car,1455,low,seven,2,male_single,none,1,real_estate,42,none,own,3,unskilled,2,no,yes,1
+low,15,existing_paid,furniture,1845,low,one,4,female_divorced_married,guarantor,1,agreement,46,none,rent,1,skilled,1,no,yes,1
+medium,48,no_credit,new_car,8358,silver,one,1,female_divorced_married,none,1,other,30,none,own,2,skilled,1,no,yes,1
+low,24,paid,furniture,3349,silver,one,4,male_single,none,4,no_property,30,none,for free,1,skilled,2,yes,yes,2
+no_acc,12,existing_paid,new_car,2859,no_acc,unemployed,4,male_single,none,4,no_property,38,none,own,1,management,1,yes,yes,1
+no_acc,18,existing_paid,furniture,1533,low,one,4,male_married,co-applicant,1,agreement,43,none,own,1,unskilled,2,no,yes,2
+no_acc,24,existing_paid,television,3621,medium,seven+,2,male_single,none,4,other,31,none,own,2,skilled,1,no,yes,2
+medium,18,critical,business,3590,low,unemployed,3,male_married,none,3,other,40,none,own,3,unemployed,2,yes,yes,1
+low,36,delay,business,2145,low,seven,2,male_single,none,1,other,24,none,own,2,skilled,1,yes,yes,2
+medium,24,existing_paid,old_car,4113,silver,one,3,female_divorced_married,none,4,other,28,none,rent,1,skilled,1,no,yes,2
+no_acc,36,existing_paid,furniture,10974,low,unemployed,4,female_divorced_married,none,2,other,26,none,own,2,management,1,yes,yes,2
+low,12,existing_paid,new_car,1893,low,four,4,female_divorced_married,guarantor,4,agreement,29,none,own,1,skilled,1,yes,yes,1
+low,24,critical,television,1231,gold,seven+,4,female_divorced_married,none,4,agreement,57,none,rent,2,management,1,yes,yes,1
+high,30,critical,television,3656,no_acc,seven+,4,male_single,none,4,agreement,49,stores,own,2,unskilled,1,no,yes,1
+medium,9,critical,television,1154,low,seven+,2,male_single,none,4,real_estate,37,none,own,3,unskilled,1,no,yes,1
+low,28,existing_paid,new_car,4006,low,four,3,male_single,none,2,other,45,none,own,1,unskilled,1,no,yes,2
+medium,24,existing_paid,furniture,3069,medium,seven+,4,male_single,none,4,no_property,30,none,for free,1,skilled,1,no,yes,1
+no_acc,6,critical,television,1740,low,seven+,2,male_married,none,2,real_estate,30,none,rent,2,skilled,1,no,yes,1
+medium,21,delay,new_car,2353,low,four,1,male_divorced,none,4,agreement,47,none,own,2,skilled,1,no,yes,1
+no_acc,15,existing_paid,new_car,3556,no_acc,four,3,male_single,none,2,no_property,29,none,own,1,skilled,1,no,yes,1
+no_acc,24,existing_paid,television,2397,silver,seven+,3,male_single,none,2,other,35,bank,own,2,skilled,1,yes,yes,2
+medium,6,existing_paid,repairs,454,low,one,3,male_married,none,1,agreement,22,none,own,1,unskilled,1,no,yes,1
+medium,30,existing_paid,television,1715,no_acc,four,4,female_divorced_married,none,1,other,26,none,own,1,skilled,1,no,yes,1
+medium,27,critical,television,2520,silver,four,4,male_single,none,2,agreement,23,none,own,2,unskilled,1,no,yes,2
+no_acc,15,existing_paid,television,3568,low,seven+,4,female_divorced_married,none,2,other,54,bank,rent,1,management,1,yes,yes,1
+no_acc,42,existing_paid,television,7166,no_acc,seven,2,male_married,none,4,agreement,29,none,rent,1,skilled,1,yes,yes,1
+low,11,critical,new_car,3939,low,four,1,male_single,none,2,real_estate,40,none,own,2,unskilled,2,no,yes,1
+medium,15,existing_paid,repairs,1514,medium,four,4,male_single,guarantor,2,real_estate,22,none,own,1,skilled,1,no,yes,1
+no_acc,24,existing_paid,new_car,7393,low,four,1,male_single,none,4,agreement,43,none,own,1,unskilled,2,no,yes,1
+low,24,paid,new_car,1193,low,unemployed,1,female_divorced_married,co-applicant,4,no_property,29,none,rent,2,unemployed,1,no,yes,2
+low,60,existing_paid,business,7297,low,seven+,4,male_single,co-applicant,4,no_property,36,none,rent,1,skilled,1,no,yes,2
+no_acc,30,critical,television,2831,low,four,4,female_divorced_married,none,2,other,33,none,own,1,skilled,1,yes,yes,1
+high,24,existing_paid,television,1258,silver,four,3,female_divorced_married,none,3,other,57,none,own,1,unskilled,1,no,yes,1
+medium,6,existing_paid,television,753,low,four,2,female_divorced_married,guarantor,3,real_estate,64,none,own,1,skilled,1,no,yes,1
+medium,18,delay,business,2427,no_acc,seven+,4,male_single,none,2,agreement,42,none,own,2,skilled,1,no,yes,1
+no_acc,24,delay,new_car,2538,low,seven+,4,male_single,none,4,other,47,none,own,2,unskilled,2,no,yes,2
+medium,15,paid,new_car,1264,medium,four,2,male_married,none,2,agreement,25,none,rent,1,skilled,1,no,yes,2
+medium,30,critical,furniture,8386,low,seven,2,male_single,none,2,agreement,49,none,own,1,skilled,1,no,yes,2
+no_acc,48,existing_paid,business,4844,low,unemployed,3,male_single,none,2,other,33,bank,rent,1,management,1,yes,yes,2
+high,21,existing_paid,new_car,2923,medium,four,1,female_divorced_married,none,1,other,28,bank,own,1,management,1,yes,yes,1
+low,36,existing_paid,old_car,8229,low,four,2,male_single,none,2,agreement,26,none,own,1,skilled,2,no,yes,2
+no_acc,24,critical,furniture,2028,low,seven,2,male_single,none,2,agreement,30,none,own,2,unskilled,1,no,yes,1
+low,15,critical,furniture,1433,low,four,4,female_divorced_married,none,3,agreement,25,none,rent,2,skilled,1,no,yes,1
+high,42,no_credit,business,6289,low,one,2,male_divorced,none,1,agreement,33,none,own,2,skilled,1,no,yes,1
+no_acc,13,existing_paid,television,1409,medium,unemployed,2,female_divorced_married,none,4,real_estate,64,none,own,1,skilled,1,no,yes,1
+low,24,existing_paid,old_car,6579,low,unemployed,4,male_single,none,2,no_property,29,none,for free,1,management,1,yes,yes,1
+medium,24,critical,television,1743,low,seven+,4,male_single,none,2,agreement,48,none,own,2,unskilled,1,no,yes,1
+no_acc,12,critical,education,3565,no_acc,one,2,male_single,none,1,agreement,37,none,own,2,unskilled,2,no,yes,1
+no_acc,15,paid,television,1569,medium,seven+,4,male_single,none,4,other,34,bank,own,1,unskilled,2,no,yes,1
+low,18,existing_paid,television,1936,no_acc,seven,2,male_married,none,4,other,23,none,rent,2,unskilled,1,no,yes,1
+low,36,existing_paid,furniture,3959,low,unemployed,4,male_single,none,3,agreement,30,none,own,1,management,1,yes,yes,1
+no_acc,12,existing_paid,new_car,2390,no_acc,seven+,4,male_single,none,3,other,50,none,own,1,skilled,1,yes,yes,1
+no_acc,12,existing_paid,furniture,1736,low,seven,3,female_divorced_married,none,4,real_estate,31,none,own,1,unskilled,1,no,yes,1
+low,30,existing_paid,old_car,3857,low,four,4,male_divorced,none,4,agreement,40,none,own,1,management,1,yes,yes,1
+no_acc,12,existing_paid,television,804,low,seven+,4,male_single,none,4,other,38,none,own,1,skilled,1,no,yes,1
+low,45,existing_paid,television,1845,low,four,4,male_single,none,4,no_property,23,none,for free,1,skilled,1,yes,yes,2
+medium,45,critical,old_car,4576,medium,unemployed,3,male_single,none,4,other,27,none,own,1,skilled,1,no,yes,1

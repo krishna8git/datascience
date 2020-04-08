@@ -1,0 +1,139 @@
+======================================================  YOUR TEXT DATA  =================================================================
+Name: 1000 Genomes
+Description: The 1000 Genomes Project is an international collaboration which has established the most detailed catalogue of human genetic variation, including SNPs, structural variants, and their haplotype context. The final phase of the project sequenced more than 2500 individuals from 26 different populations around the world and produced an integrated set of phased haplotypes with more than 80 million variants for these individuals.
+Documentation: https://docs.opendata.aws/1000genomes/readme.html
+Contact: http://www.internationalgenome.org/contact
+UpdateFrequency: Not updated
+Tags:
+  - aws-pds
+  - genetic
+  - genomic
+  - life sciences
+License: Data from the 1000 Genomes Project is now available without embargo, following the final publication from the project. Use of the data should be cited in the usual way, with current details available at http://www.internationalgenome.org/faq/how-do-i-cite-1000-genomes-project.
+Resources:
+  - Description: http://www.internationalgenome.org/formats
+    ARN: arn:aws:s3:::1000genomes
+    Region: us-east-1
+    Type: S3 Bucket
+DataAtWork:
+  - Title: Exploratory data analysis of genomic datasets using ADAM and Mango with Apache Spark on Amazon EMR
+    URL: https://aws.amazon.com/blogs/big-data/exploratory-data-analysis-of-genomic-datasets-using-adam-and-mango-with-apache-spark-on-amazon-emr/
+    AuthorName: Alyssa Marrow
+    AuthorURL: https://research.eecs.berkeley.edu/~akmorrow/
+
+Name: 3000 Rice Genomes Project
+Description: The 3000 Rice Genome Project is an international effort to sequence the genomes of 3,024 rice varieties from 89 countries.
+Documentation: https://docs.opendata.aws/3kricegenome/readme.html
+Contact: http://iric.irri.org/contact-us
+UpdateFrequency: Not updated
+Tags:
+  - agriculture
+  - food security
+  - aws-pds
+  - genetic
+  - genomic
+  - life sciences
+License: This data is available for anyone to use under the terms of the Toronto Statement, which is available [here](http://www.nature.com/nature/journal/v461/n7261/box/461168a_BX1.html)
+Resources:
+  - Description: http://s3.amazonaws.com/3kricegenome/README-snp_pipeline.txt
+    ARN: arn:aws:s3:::3kricegenome
+    Region: us-east-1
+    Type: S3 Bucket
+
+Name: Africa Soil Information Service (AfSIS) Soil Chemistry
+Description: |
+    This dataset contains field and laboratory data collected through the Africa 
+    Soil Information Service (AfSIS) project, which lasted from 2009 through 2018. 
+    In this initial release, we are including data collected during Phase I, which 
+    spanned from 2009 through 2013. Georeferenced soil samples were collected from 
+    many countries throughout Sub-Saharan Africa, and their nutrient content was 
+    analyzed using *both* wet chemistry and dry chemistry. The two types of data 
+    can be paired to form a training dataset for machine learning, such that the 
+    chemical concentrations of certain nutrients can be well-predicted using less 
+    expensive dry chemistry techniques.
+Documentation: https://github.com/qedsoftware/afsis-soil-chem-tutorial
+Contact: afsis@qed.ai
+ManagedBy: QED (https://qed.ai)
+UpdateFrequency: Annually
+Tags:
+  - agriculture
+  - environmental
+  - food security
+  - machine learning
+  - life sciences
+  - sustainability
+License: ODC Open Database License (ODbL) version 1.0, with attribution to AfSIS, https://afsisdb.qed.ai/terms/
+Resources:
+  - Description: Field and laboratory data about soils collected through the Africa Soil Information Service (AfSIS), stored as CSV and OPUS files.
+    ARN: arn:aws:s3:::afsis
+    Region: us-east-1
+    Type: S3 Bucket
+DataAtWork:
+  - Title: AfSIS Soil Chemistry - Usage Tutorial
+    URL: https://github.com/qedsoftware/afsis-soil-chem-tutorial/
+    AuthorName: QED
+    AuthorURL: https://qed.ai
+  - Title: Goalkeepers 2018, Soil - The Big Data Beneath Your Feet
+    URL: https://www.youtube.com/watch?v=Fb9R0CnPMkc
+    AuthorName: QED
+    AuthorURL: https://qed.ai
+
+Name: UK Met Office Atmospheric Deterministic and Probabilistic Forecasts
+Description: |
+  Meteorological data reusers now have an exciting opportunity to sample, experiment and evaluate
+  Met Office atmospheric model data, whilst also experiencing a transformative method of requesting
+  data via Restful APIs on AWS. All ahead of Met Office’s own operationally supported API platform
+  that will be launched in late 2019.
+  
+  For information about the data see the [Met Office website](https://www.metoffice.gov.uk/services/data-provision/big-data-drive/wholesale/categories/planetary-scale-applications).
+  For examples of using the data check out the [examples repository](https://github.com/MetOffice/aws-earth-examples). 
+  If you need help and support using the data please raise an issue on the examples repository.
+Documentation: https://github.com/MetOffice/aws-earth-examples  
+Contact: https://www.metoffice.gov.uk/about-us/contact
+UpdateFrequency: Daily (with 24 hour delay)
+Tags:
+  - aws-pds
+  - earth observation
+  - climate
+  - weather
+  - meteorological
+  - sustainability
+License: |
+  This data is made available under a [Creative Commons licence](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+  This data is free to use for non-commercial purposes under the terms of the licence. You must
+  ensure that you acknowledge the source of this data as prescribed by this licence. Data or any
+  derivatives made using the data are for internal use only and may not be distributed or otherwise
+  shared.
+Resources:
+  - Description: "[Met Office UK Atmospheric Hi-Res Model (UKV) - 2km Deterministic](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/uk-atmospheric-hi-res-model-ukv-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:s3:::aws-earth-mo-atmospheric-ukv-prd
+    Region: eu-west-2
+    Type: S3 Bucket
+  - Description: "[Met Office Global Atmospheric Hi-Res Model - 10km Deterministic](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/global-atmospheric-hi-res-10km-deterministic-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:s3:::aws-earth-mo-atmospheric-global-prd
+    Region: eu-west-2
+    Type: S3 Bucket
+  - Description: "[Met Office Global and Regional Ensemble Prediction System (UK) MOGREPS-UK](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/mogreps-uk-ensemble-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:s3:::aws-earth-mo-atmospheric-mogreps-uk-prd
+    Region: eu-west-2
+    Type: S3 Bucket
+  - Description: "[Met Office Global and Regional Ensemble Prediction System (Global) - MOGREPS-G](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/mogreps-global-ensemble-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:s3:::aws-earth-mo-atmospheric-mogreps-g-prd
+    Region: eu-west-2
+    Type: S3 Bucket
+  - Description: "[Met Office UK Atmospheric Hi-Res Model (UKV) - 2km Deterministic](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/uk-atmospheric-hi-res-model-ukv-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:sns:eu-west-2:021908831235:aws-earth-mo-atmospheric-ukv-prd
+    Region: eu-west-2
+    Type: SNS Topic
+  - Description: "[Met Office Global Atmospheric Hi-Res Model - 10km Deterministic](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/global-atmospheric-hi-res-10km-deterministic-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:sns:eu-west-2:021908831235:aws-earth-mo-atmospheric-global-prd
+    Region: eu-west-2
+    Type: SNS Topic
+  - Description: "[Met Office Global and Regional Ensemble Prediction System (UK) MOGREPS-UK](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/mogreps-uk-ensemble-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:sns:eu-west-2:021908831235:aws-earth-mo-atmospheric-mogreps-uk-prd
+    Region: eu-west-2
+    Type: SNS Topic
+  - Description: "[Met Office Global and Regional Ensemble Prediction System (Global) - MOGREPS-G](https://www.metoffice.gov.uk/binaries/content/assets/mohippo/pdf/data-provision/mogreps-global-ensemble-beta-service-parameters-080818.pdf)"
+    ARN: arn:aws:sns:eu-west-2:021908831235:aws-earth-mo-atmospheric-mogreps-g-prd
+    Region: eu-west-2
+    Type: SNS Topic

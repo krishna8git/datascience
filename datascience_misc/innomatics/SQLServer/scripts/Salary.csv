@@ -1,0 +1,51 @@
+﻿EmpId,JobLevel,Occupation,Experience (Years),Salary
+1,1,Auditor,11,173690
+2,2,Journalist,4,174563
+3,1,Dancer,19,55734
+4,1,Producer,24,46915
+5,1,Architect,27,117940
+6,2,Dancer,29,94663
+7,3,Interpreter,11,30936
+8,4,Baker,16,121558
+9,7,Lawer,28,171065
+10,4,Driver,13,189588
+11,5,Veterinarian,5,105382
+12,2,Dancer,24,87449
+13,3,Firefighter,2,51920
+14,4,Mechanic,10,115674
+15,1,Graphic Designer,8,160258
+16,5,Biochemist,0,141594
+17,3,Cook,18,59579
+18,6,Manager,15,68988
+19,6,Botanist,10,80428
+20,6,Programmer,10,68444
+21,1,Electrician,25,79804
+22,4,Economist,18,63564
+23,3,Photographer,9,53474
+24,3,Historian,22,64350
+25,4,Astronomer,30,60688
+26,2,Accountant,4,57348
+27,3,Programmer,19,187019
+28,4,Scientist,15,151102
+29,7,Mechanic,1,170337
+30,5,Cook,6,85464
+31,3,Medic,18,69673
+32,2,Insurer,30,64540
+33,2,Chef,12,113215
+34,3,Firefighter,13,154567
+35,5,Social Worker,24,159432
+36,7,Electrician,29,132012
+37,2,Fine Artist,1,126118
+38,5,Cook,24,89976
+39,1,Mechanic,21,120697
+40,4,Driver,17,144132
+41,5,Teacher,22,148265
+42,5,Physicist,25,87455
+43,3,Scientist,19,86278
+44,5,Salesman,1,144221
+45,4,Producer,4,75333
+46,5,Physicist,30,157209
+47,2,Electrician,15,196743
+48,4,Accountant,29,184260
+49,5,Biochemist,14,95278
+50,1,Composer,19,73601

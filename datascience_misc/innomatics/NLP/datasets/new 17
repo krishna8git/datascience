@@ -1,0 +1,85 @@
+Questions asked in interview are very good. We should know why exactly a concept is introduced, what are the advantages of it and why can not we do it in the old way why to use the very concept
+
+e.g., What is inheritence, why do we need it. Rather than using inheritence why can't I just create and pass objects of classes.
+What is Dependency injection? Why do we need it. Why can't we just create beans and inject ourselves?
+They are basically expecting us to know SOLID principles.
+
+Given a class Student with firstname, lastname, ssn. Write a sort method which sorts the list student objects based on firstname and if firstnames are same then consider lastname for those objects and if both firstname and lastname are same then consider ssn for those as sort parameter. (using Comparator) 
+
+How do we use above class to actually sort the list(They expect you to write this in Java 8 using lambdas Method inference)
+
+HashMap related questions (equals() and hashcode()).
+
+Time complexity of insertion and retrieval of a value from Hashmap if hashcode() returns constant(same) value all the time.
+
+Diff between steam() and parallelStream()? On what kind of objects we can use parallelStream()?
+
+How can we write a generic sort method? (Testing our Generics knowledge like <T>, <? extends some Class>
+
+How can we achieve encapsulation of certain part of super class code in subclass during inheritance ?
+
+What do you know about Inversion of Control?
+
+Then they ask about testing / testing frameworks? (Why mocking of data...)  
+
+Answer Question
+
+OOPs concept, abstract vs interface, sql query and some hard java programming questions.  
+
+1 st round : 3 coding questions using only Java language, questions were moderate based on arrays and string manipulation.
+
+2nd round: 2 coding questions based on Dynamic programming, and 11 mcqs. It was tough
+
+3rd round: GD
+
+4th round: TR, basics of oops,Java and data structures and algorithm
+
+OOP principles
+SOLID principles
+SPRING
+Exceptions, Error
+Threads, Multi-Threading
+Design Patterns
+JSP-JSF
+REST Web Services
+HTTP
+Unit Tests
+Integration Tests
+ORM
+
+Java & OOP:
+	1. Code for Abstract Factory Pattern
+Spring:
+ 
+	1. Limitations of AutoWiring and about @Qualifier annotation
+	2. 
+	
+DS:
+	1. in a sorted array write a program to get pairs, whose summation is 10  
+	2. Longest Palindromic Subsequence
+sql queries:
+create table
+insert into
+select join
+
+
+JD:Python Developer with AWS experience,Django frame work.
+
+Python
+-----------
+1) Generators, what are they and how/when to use them.
+2) Decorators, usage, application.
+3) Data structures in python.
+4) Threading in python. GIL limitations and multiprocessing.
+5) Iterator protocol and applications.
+6) Python data model.
+7) How to talk to internet from Python.
+8) How to write REST APIs in Python. What is REST ?
+9) Duck typing, MRO order.
+10) Static/class/instance method.
+11) Write a python script to do processing on Huge file(order of GB)
+12) Handling encoding in python.
+
+
+
+

@@ -1,0 +1,177 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'HiHow are you?'"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a = 'Hi'\n",
+    "b = 'How are you?'\n",
+    "a + b"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hi How are you?\n"
+     ]
+    }
+   ],
+   "source": [
+    "# print(a, b ) gives us the space between a and b\n",
+    "print(a, b)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Enter a number4\n",
+      "a =  4\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Taking the input values from user using input() method.\n",
+    "a = input('Enter a number')\n",
+    "print(\"a = \", a)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "type(a):  <class 'str'>\n",
+      "type(b):  <class 'int'>\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Inputs entered by the user are always of type 'str'\n",
+    "# to convert the strings into integer use int() function.\n",
+    "b = int(a)\n",
+    "print(\"type(a): \", type(a))\n",
+    "print(\"type(b): \", type(b))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Type Casting\n",
+    "\n",
+    "* The above is known as type casting.\n",
+    "\n",
+    "* any type can be converted to a str but not string can be converted any type.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Program for adding two numbers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Enter your first number10\n",
+      "Enter your second number20\n",
+      "Sum =  30\n"
+     ]
+    }
+   ],
+   "source": [
+    "a = input('Enter your first number')\n",
+    "b = input('Enter your second number')\n",
+    "c = int(a) + int(b)\n",
+    "\n",
+    "print(\"Sum = \", c)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "36"
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# use the '**' operator to get the power of.\n",
+    "6 ** 2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
